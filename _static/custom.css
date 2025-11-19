@@ -1,0 +1,380 @@
+/* Custom CSS for ContactAura RPG Materials - Elegant & Nuanced Styling */
+
+/* ========================================================================
+   Typography Enhancements
+   ======================================================================== */
+
+:root {
+    /* Enhanced color palette for nuanced styling */
+    --elegant-accent: #5e6ad2;
+    --elegant-accent-light: #8b95e8;
+    --elegant-gold: #d4af37;
+    --elegant-emerald: #50c878;
+    --elegant-ruby: #e0115f;
+    --shadow-subtle: rgba(0, 0, 0, 0.06);
+    --shadow-medium: rgba(0, 0, 0, 0.12);
+    --shadow-strong: rgba(0, 0, 0, 0.2);
+}
+
+/* Improved body text readability */
+.content {
+    font-size: 1.05rem;
+    line-height: 1.7;
+    letter-spacing: 0.01em;
+}
+
+/* Elegant headers with subtle styling */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    margin-top: 2em;
+    margin-bottom: 0.75em;
+}
+
+h1 {
+    font-size: 2.5em;
+    background: linear-gradient(135deg, var(--color-brand-primary), var(--elegant-accent-light));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+h2 {
+    font-size: 1.875em;
+    border-bottom: 2px solid var(--color-background-secondary);
+    padding-bottom: 0.3em;
+    transition: border-color 0.3s ease;
+}
+
+h2:hover {
+    border-bottom-color: var(--color-brand-primary);
+}
+
+h3 {
+    font-size: 1.5em;
+    color: var(--color-brand-content);
+}
+
+/* ========================================================================
+   Links & Interactive Elements
+   ======================================================================== */
+
+a {
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+}
+
+a:hover {
+    border-bottom-color: currentColor;
+    transform: translateY(-1px);
+}
+
+/* Elegant navigation */
+.sidebar-tree a {
+    border-radius: 6px;
+    padding: 0.5em 0.75em;
+    margin: 0.2em 0;
+    transition: all 0.25s ease;
+}
+
+.sidebar-tree a:hover {
+    background: linear-gradient(90deg,
+        var(--color-background-secondary),
+        transparent);
+    transform: translateX(4px);
+}
+
+/* ========================================================================
+   Code Blocks & Pre-formatted Text
+   ======================================================================== */
+
+pre, code {
+    font-family: 'Fira Code', 'Monaco', 'Consolas', monospace;
+    font-variant-ligatures: common-ligatures;
+}
+
+.highlight pre {
+    border-radius: 8px;
+    padding: 1.25em;
+    box-shadow: 0 4px 12px var(--shadow-subtle);
+    border-left: 4px solid var(--color-brand-primary);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.highlight pre:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px var(--shadow-medium);
+}
+
+/* Inline code */
+code.literal {
+    background: var(--color-background-secondary);
+    color: var(--elegant-accent);
+    padding: 0.2em 0.4em;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-weight: 500;
+    box-shadow: 0 1px 3px var(--shadow-subtle);
+}
+
+/* ========================================================================
+   Admonitions (Notes, Warnings, etc.)
+   ======================================================================== */
+
+.admonition {
+    border-radius: 8px;
+    padding: 1em 1.25em;
+    margin: 1.5em 0;
+    box-shadow: 0 2px 8px var(--shadow-subtle);
+    border-left: 4px solid var(--color-brand-primary);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.admonition:hover {
+    transform: translateX(4px);
+    box-shadow: 0 4px 12px var(--shadow-medium);
+}
+
+.admonition.note {
+    border-left-color: var(--elegant-accent);
+    background: linear-gradient(to right,
+        rgba(94, 106, 210, 0.05),
+        transparent);
+}
+
+.admonition.warning {
+    border-left-color: var(--elegant-ruby);
+    background: linear-gradient(to right,
+        rgba(224, 17, 95, 0.05),
+        transparent);
+}
+
+.admonition.tip {
+    border-left-color: var(--elegant-emerald);
+    background: linear-gradient(to right,
+        rgba(80, 200, 120, 0.05),
+        transparent);
+}
+
+.admonition-title {
+    font-weight: 600;
+    font-size: 1.05em;
+    margin-bottom: 0.5em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.85em;
+}
+
+/* ========================================================================
+   Tables - Perfect for RPG Stats
+   ======================================================================== */
+
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px var(--shadow-subtle);
+    margin: 1.5em 0;
+    width: 100%;
+}
+
+thead {
+    background: linear-gradient(135deg,
+        var(--color-brand-primary),
+        var(--elegant-accent-light));
+    color: white;
+}
+
+thead th {
+    padding: 1em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.85em;
+    text-align: left;
+}
+
+tbody tr {
+    transition: background-color 0.2s ease;
+}
+
+tbody tr:nth-child(even) {
+    background: var(--color-background-secondary);
+}
+
+tbody tr:hover {
+    background: var(--color-background-secondary);
+    box-shadow: inset 0 0 0 2px var(--color-brand-primary);
+}
+
+tbody td {
+    padding: 0.875em 1em;
+    border-bottom: 1px solid var(--color-background-secondary);
+}
+
+/* ========================================================================
+   Lists - Enhanced for better readability
+   ======================================================================== */
+
+ul, ol {
+    padding-left: 1.5em;
+    margin: 1em 0;
+}
+
+li {
+    margin: 0.5em 0;
+    line-height: 1.6;
+}
+
+li::marker {
+    color: var(--color-brand-primary);
+    font-weight: 600;
+}
+
+/* Task lists (checkboxes) */
+.task-list-item {
+    list-style: none;
+    position: relative;
+    padding-left: 1.75em;
+}
+
+.task-list-item input[type="checkbox"] {
+    position: absolute;
+    left: 0;
+    top: 0.3em;
+    width: 1.2em;
+    height: 1.2em;
+    cursor: pointer;
+    accent-color: var(--elegant-emerald);
+}
+
+/* ========================================================================
+   Blockquotes - Elegant styling
+   ======================================================================== */
+
+blockquote {
+    border-left: 4px solid var(--elegant-gold);
+    padding: 1em 1.5em;
+    margin: 1.5em 0;
+    background: linear-gradient(to right,
+        rgba(212, 175, 55, 0.08),
+        transparent);
+    font-style: italic;
+    border-radius: 0 8px 8px 0;
+    box-shadow: 0 2px 8px var(--shadow-subtle);
+}
+
+blockquote p:first-child {
+    margin-top: 0;
+}
+
+blockquote p:last-child {
+    margin-bottom: 0;
+}
+
+/* ========================================================================
+   Main Content Area - Subtle enhancements
+   ======================================================================== */
+
+.content article {
+    padding: 2em;
+}
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Selection styling */
+::selection {
+    background: var(--color-brand-primary);
+    color: white;
+}
+
+/* ========================================================================
+   Sidebar Enhancements
+   ======================================================================== */
+
+.sidebar-brand-text {
+    font-weight: 700;
+    font-size: 1.3em;
+    background: linear-gradient(135deg,
+        var(--color-brand-primary),
+        var(--elegant-accent-light));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* Search box */
+.sidebar-search-container input {
+    border-radius: 8px;
+    border: 2px solid var(--color-background-secondary);
+    padding: 0.75em;
+    transition: all 0.2s ease;
+}
+
+.sidebar-search-container input:focus {
+    border-color: var(--color-brand-primary);
+    box-shadow: 0 0 0 3px rgba(94, 106, 210, 0.1);
+    outline: none;
+}
+
+/* ========================================================================
+   Responsive adjustments
+   ======================================================================== */
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2em;
+    }
+
+    .content {
+        font-size: 1rem;
+    }
+
+    .content article {
+        padding: 1em;
+    }
+}
+
+/* ========================================================================
+   Dark mode specific adjustments
+   ======================================================================== */
+
+@media (prefers-color-scheme: dark) {
+    .highlight pre {
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    }
+
+    table {
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+    }
+}
+
+/* ========================================================================
+   Print styles - for printing character sheets and adventures
+   ======================================================================== */
+
+@media print {
+    .sidebar,
+    .mobile-header,
+    .related-pages {
+        display: none;
+    }
+
+    .content {
+        max-width: 100%;
+        padding: 0;
+    }
+
+    h1, h2, h3 {
+        page-break-after: avoid;
+    }
+
+    pre, blockquote, table {
+        page-break-inside: avoid;
+    }
+}
