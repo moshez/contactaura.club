@@ -1,0 +1,8 @@
+# Sphinx documentation builder
+sphinx>=7.0.0
+
+# Furo theme - modern, professional theme with nuanced styling
+furo>=2024.0.0
+
+# Additional useful Sphinx extensions
+sphinx-autobuild>=2024.0.0
