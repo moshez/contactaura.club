@@ -8,8 +8,8 @@ About This Site
 ---------------
 
 This is a collection of RPG materials organized and maintained for easy reference
-during game sessions. All documents are written in reStructuredText and built
-with Sphinx for clean, professional presentation.
+during game sessions. Documents can be written in reStructuredText (.rst) or
+Markdown (.md) format and are built with Sphinx for clean, professional presentation.
 
 Contents
 --------

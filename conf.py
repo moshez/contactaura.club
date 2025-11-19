@@ -3,9 +3,6 @@
 # For the full list of built-in configuration values, see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
-import os
-import glob
-
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
@@ -21,14 +18,26 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.viewcode',
     'sphinx.ext.napoleon',
+    'myst_parser',
 ]
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'README.md']
 
 # Source directory for documentation
-source_suffix = '.rst'
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',
+}
 master_doc = 'index'
+
+# MyST Parser configuration
+myst_enable_extensions = [
+    "colon_fence",      # ::: fence syntax
+    "deflist",          # Definition lists
+    "tasklist",         # Task lists (- [ ] and - [x])
+    "fieldlist",        # Field lists
+]
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -58,24 +67,3 @@ html_theme_options = {
 }
 
 html_static_path = ['_static']
-
-# -- Auto-discovery of RST files ---------------------------------------------
-
-def find_rst_files():
-    """Find all .rst files in the docs/ directory (excluding index.rst)"""
-    docs_dir = os.path.join(os.path.dirname(__file__), 'docs')
-    if not os.path.exists(docs_dir):
-        return []
-
-    rst_files = []
-    for rst_file in glob.glob(os.path.join(docs_dir, '*.rst')):
-        basename = os.path.basename(rst_file)
-        # Skip index.rst as it's the main document
-        if basename != 'index.rst':
-            # Remove .rst extension for Sphinx
-            rst_files.append(f"docs/{basename[:-4]}")
-
-    return sorted(rst_files)
-
-# Store auto-discovered files for use in index.rst
-autodiscovered_docs = find_rst_files()
