@@ -67,3 +67,8 @@ html_theme_options = {
 }
 
 html_static_path = ['_static']
+
+# Custom CSS files for enhanced styling
+html_css_files = [
+    'custom.css',
+]
