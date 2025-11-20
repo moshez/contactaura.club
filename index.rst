@@ -17,7 +17,7 @@ Contents
 Browse the materials below:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :glob:
    :caption: RPG Materials
 
