@@ -195,86 +195,96 @@ Once you have a rough draft, check your character for balance:
 
 ### Building Powers for This Campaign
 
-#### Standard Power Packages
+#### Civilian Profession Packages
 
-Here are some pre-built power packages for common archetypes, adapted for the Shiny Technicolor campaign:
+These are coherent skill packages for common civilian identities. Choose one and customize to fit your character. Each package costs 10-15 CP.
 
-#### Brick (Tank)
+#### Lawyer
 
-**Concept:** When you activate your shine, your mass, strength, and skin density dramatically increase.
+Skilled in argumentation, legal knowledge, and persuasion.
 
-**Attributes:**
-- ACT 3d6 (27 CP), ACC 3d6 (9 CP), DEF 3d6 (9 CP), PER 3d6 (9 CP)
-- **Total:** 54 CP
+- Background: Law (4d6): 4 CP
+- Communication: Persuasion (3d6): 3 CP
+- Communication: Intimidation (2d6): 2 CP
+- Unopposed Skill: Legal research (3d6): 3 CP
+- Systems: Computer use (2d6): 2 CP
+**Total: 14 CP**
 
-**Powers:**
-- **Primary Attack:** Reduce Body 5d6 (75 CP), hand-to-hand only (0.5), requires high mass form (0.25) = 43 CP
-- **Resistance:** Resist Body reduction 4d6 (60 CP raw strength), only when in high mass form (0.5), reduced mobility (0.25) = 34 CP
-- **Enhanced Leaping:** Move 10m (2 CP), only for jumping (0.5) = 1.3 CP
-- **Intimidation:** Unopposed Skill: Intimidate 2d6 = 2 CP
-- **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
-- **Total:** 81 CP
+#### Programmer/Hacker
 
-**Civilian Skills:** 15 CP
+Technical expertise with computers and security systems.
 
-**Total Build:** 150 CP (with 30 CP from problems = 180 CP)
+- Background: Computer science (4d6): 4 CP
+- Security/Hacking: Computer systems (3d6): 6 CP
+- Systems: Network operations (3d6): 3 CP
+- Unopposed Skill: Debugging (2d6): 2 CP
+**Total: 15 CP**
 
-#### Speedster
+#### Doctor/Medical Professional
 
-**Concept:** Your shine dramatically increases your speed and reaction time.
+Medical training and patient care skills.
 
-**Attributes:**
-- ACT 4d6 (39 CP), ACC 4d6 (12 CP), DEF 4d6 (12 CP), PER 3d6 (9 CP)
-- **Total:** 72 CP
+- Background: Medicine (4d6): 4 CP
+- Background: Biology (3d6): 3 CP
+- Communication: Bedside manner (3d6): 3 CP
+- Unopposed Skill: Diagnosis (3d6): 3 CP
+- Systems: Medical equipment (2d6): 2 CP
+**Total: 15 CP**
 
-**Powers:**
-- **Super Speed:** Move 30m (6 CP), speed inertia (0.25), requires open space (0.25) = 4 CP
-- **Enhanced Reactions:** Improve ACT 3d6 (45 CP), self only (0.5), constant drain (0.5) = 23 CP
-- **Quick Strikes:** Reduce Body 3d6 (45 CP), hand-to-hand only (0.5), requires high ACT (0.25) = 26 CP
-- **Evasion:** Unopposed Skill: Dodge 3d6 = 9 CP
-- **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
-- **Total:** 63 CP
+#### Journalist/Reporter
 
-**Civilian Skills:** 15 CP
+Investigation, writing, and information gathering.
 
-**Total Build:** 150 CP (with 30 CP from problems = 180 CP)
+- Background: Journalism (3d6): 3 CP
+- Communication: Written (3d6): 3 CP
+- Communication: Interviewing (3d6): 3 CP
+- Systems: Computer research (3d6): 3 CP
+- Unopposed Skill: Investigation (2d6): 2 CP
+**Total: 14 CP**
 
-#### Energy Projector
+#### Mechanic/Engineer
 
-**Concept:** Your shine allows you to project energy blasts.
+Mechanical aptitude and technical repair skills.
 
-**Attributes:**
-- ACT 3d6 (27 CP), ACC 4d6 (12 CP), DEF 3d6 (9 CP), PER 3d6 (9 CP)
-- **Total:** 57 CP
+- Background: Automotive engineering (3d6): 3 CP
+- Background: Mechanical systems (3d6): 3 CP
+- Systems: Vehicle operation (3d6): 3 CP
+- Security/Hacking: Mechanical locks (2d6): 4 CP
+- Unopposed Skill: Repair (2d6): 2 CP
+**Total: 15 CP**
 
-**Powers:**
-- **Energy Blast:** Reduce Body 2d6 (30 CP), ranged 20m (×5) = 150 CP, with limitations: gestures (0.5), visible attack (0.25), requires aiming (0.25) = 75 CP
-- **Variant: Overcharge:** 3d6, ranged 20m, extra time (2 actions to charge) = 8 CP (10% of primary)
-- **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
-- **Total:** 84 CP
+#### Teacher/Professor
 
-**Civilian Skills:** 9 CP
+Academic knowledge and communication skills.
 
-**Total Build:** 150 CP (with 30 CP from problems = 180 CP)
+- Background: Education field (4d6): 4 CP
+- Background: Secondary field (3d6): 3 CP
+- Communication: Teaching (3d6): 3 CP
+- Communication: Public speaking (2d6): 2 CP
+- Unopposed Skill: Research (2d6): 2 CP
+**Total: 14 CP**
 
-#### Mentalist
+#### Service Worker (Restaurant/Retail)
 
-**Concept:** Your shine gives you telepathic abilities.
+Customer service and practical skills.
 
-**Attributes:**
-- ACT 3d6 (27 CP), ACC 3d6 (9 CP), DEF 4d6 (12 CP), PER 5d6 (15 CP)
-- **Total:** 63 CP
+- Background: Hospitality (3d6): 3 CP
+- Communication: Customer service (3d6): 3 CP
+- Systems: Point of sale systems (2d6): 2 CP
+- Unopposed Skill: Reading people (3d6): 3 CP
+- Unopposed Skill: Multitasking (2d6): 2 CP
+**Total: 13 CP**
 
-**Powers:**
-- **Detect Thoughts:** Detect 3d6 (9 CP), range 20m (×5) = 45 CP, with limitations: requires concentration (0.5), line of sight (0.5) = 23 CP
-- **Telepathic Communication:** Signal 2d6 (6 CP), range 20m (×5) = 30 CP, multiple recipients (×2) = 60 CP, with limitations: requires concentration (0.5), line of sight (0.5), only willing recipients (0.5) = 24 CP
-- **Mental Attack:** Reduce Accuracy 2d6 (30 CP), ranged 10m (×4) = 120 CP, with limitations: line of sight (0.5), requires concentration (0.5), use PER resistance (0.5), extra time: 2 actions (0.5), cool down: 3 actions (1.0) = 30 CP
-- **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
-- **Total:** 78 CP
+#### Artist/Performer
 
-**Civilian Skills:** 9 CP
+Creative expression and performance abilities.
 
-**Total Build:** 150 CP (with 30 CP from problems = 180 CP)
+- Background: Art/Performance field (4d6): 4 CP
+- Communication: Performance (3d6): 3 CP
+- Unopposed Skill: Creative expression (3d6): 3 CP
+- Unopposed Skill: Art history/technique (2d6): 2 CP
+- Systems: Relevant tools (2d6): 2 CP
+**Total: 14 CP**
 
 ### Power Construction Guidelines
 
@@ -366,6 +376,81 @@ When building powers for this campaign:
 - **Quick Reflexes:** Unopposed Skill: Evasion 4d6 = 12 CP
 - **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
 **Total: 55 CP**
+
+**Total CP:** 180 (150 base + 30 from problems)
+
+#### "Prism" - Energy Projector
+
+**Secret Identity:** Alex Chen, freelance photographer, age 26
+
+**Background:** Discovered their shine at 18 during a car accident, instinctively projecting a blast that deflected debris. Now balances artistic work with using their powers to protect the Bay Area at night.
+
+**Problems:**
+- Psychological aversion to yellows (Common, Severe): 10 CP
+- Social: Struggling artist, financial instability (Common, Severe): 10 CP
+- Physical: Powers leave afterimages in vision temporarily (Common, Mild): 5 CP
+- Psychological: Perfectionist, overworks themselves (Common, Mild): 5 CP
+**Total Problems: 30 CP**
+
+**Attributes:**
+- ACT 3d6: 27 CP
+- ACC 4d6: 12 CP
+- DEF 3d6: 9 CP
+- PER 3d6: 9 CP
+**Total: 57 CP**
+
+**Civilian Skills:**
+- Background: Photography (4d6): 4 CP
+- Background: Art/Composition (3d6): 3 CP
+- Systems: Photo equipment (2d6): 2 CP
+- Unopposed Skill: Visual perception (1d6): 1 CP
+**Total: 10 CP**
+
+**Powers:**
+- **Light Blast:** Reduce Body 2d6 (30 CP), ranged 20m (×5) = 150 CP, with limitations: gestures (0.5), visible light beam (0.25), requires clear line of sight (0.25), affected by darkness/smoke (0.5) = 60 CP
+- **Variant: Blinding Flash:** Reduce Accuracy 1d6, ranged 15m, AoE 3m = 6 CP
+- **Light Bend:** Unopposed Skill: Stealth 3d6 (by bending light around self) = 9 CP
+- **Enhanced Vision:** Detect: Light/thermal signatures 1d6 (3 CP), range 20m (×5) = 15 CP, with limitations: requires concentration (0.5), only works at night (0.5), affects own vision (0.25) = 6.75 CP (round to 7 CP)
+- **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
+**Total: 83 CP**
+
+**Total CP:** 180 (150 base + 30 from problems)
+
+#### "Mindlink" - Telepath
+
+**Secret Identity:** Dr. Sarah Okafor, school counselor, age 32
+
+**Background:** Manifested her telepathic shine at 14 during a traumatic event. Uses her abilities to help troubled teens while secretly working with other purples to prevent shiny-related incidents.
+
+**Problems:**
+- Psychological aversion to yellows (Common, Severe): 10 CP
+- Psychological: Can't always shut off empathic sensing (Common, Severe): 10 CP
+- Social: Divorced, strained relationship with ex-spouse (Common, Mild): 5 CP
+- Physical: Migraines from power overuse (Common, Mild): 5 CP
+**Total Problems: 30 CP**
+
+**Attributes:**
+- ACT 3d6: 27 CP
+- ACC 3d6: 9 CP
+- DEF 4d6: 12 CP
+- PER 4d6+2: 13 CP
+**Total: 61 CP**
+
+**Civilian Skills:**
+- Background: Psychology (4d6): 4 CP
+- Background: Education (2d6): 2 CP
+- Communication: Counseling (2d6): 2 CP
+- Communication: Empathy (1d6): 1 CP
+**Total: 9 CP**
+
+**Powers:**
+- **Detect Thoughts:** Detect 2d6 (6 CP), range 15m (×4) = 24 CP, with limitations: requires concentration (0.5), line of sight (0.5), surface thoughts only (0.25), extra time: 1 action (0.5) = 9.6 CP (round to 10 CP)
+- **Telepathic Link:** Signal 1d6 (3 CP), range 20m (×5) = 15 CP, multiple recipients (×2) = 30 CP, with limitations: requires concentration (0.5), willing recipients only (0.5), line of sight initially (0.5), requires touch to establish (0.5) = 12 CP
+- **Mental Confusion:** Reduce Accuracy 2d6 (30 CP), ranged 10m (×4) = 120 CP, with limitations: line of sight (0.5), requires concentration (0.5), use PER defense (0.5), extra time: 2 actions (0.5), causes mental strain/fatigue (0.5), cool down: 3 actions (1.0) = 25 CP
+- **Empathic Sense:** Detect: Emotions 2d6 (6 CP), range 10m (×4) = 24 CP, with limitations: always on when near people (0.5), requires concentration to filter (0.5), overwhelming in crowds (0.5) = 12 CP
+- **Mental Shield:** Resistance to mental attacks 2d6 (30 CP raw strength), only vs. mental/emotional powers (0.5), requires awareness of attack (0.5), only when concentrating (0.5) = 15 CP
+- **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
+**Total: 80 CP**
 
 **Total CP:** 180 (150 base + 30 from problems)
 
