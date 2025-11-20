@@ -42,9 +42,9 @@ The characters struggle with three kinds of challenges:
 
 This is a superhero campaign. Characters are built with:
 
-- **Total CP:** 100
+- **Total CP:** 150
 - **CP from Problems:** 20-30 (required range)
-- **Base package:** Standard human baseline (included in the 100 CP)
+- **Base package:** Standard human baseline (included in the 150 CP)
 
 ### Starting with Your Concept
 
@@ -138,13 +138,15 @@ Most characters will want at least one offensive power:
 
 For a superhero, you might want something more impressive:
 
-- **Energy projection:** 4d6 (60 CP), ranged 50m (×9) = 540 CP, with limitations like "gestures" (0.5), "visible attack" (0.25), "extra time: 1 action to charge" (0.5) = 540/2.25 ≈ 240 CP... which is too expensive!
+- **Energy projection:** 4d6 (60 CP), ranged 50m (×9) = 540 CP, with limitations like "gestures" (0.5), "visible attack" (0.25), "extra time: 1 action to charge" (0.5) = 540/2.25 ≈ 240 CP
 
-This is where the Variant system helps. Buy your most expensive attack, then buy variants at reduced cost:
+At 240 CP, this single power exceeds your entire budget! This is where the **Variant system** helps. Buy your most expensive attack as the primary, then buy variants at 10% cost:
 
-- **Primary attack:** 4d6 ranged (50m) with specific limitations = 240 CP
-- **Melee variant:** Same power at touch range (much cheaper) = 24 CP (10% of 240)
-- **Area effect variant:** 3d6, ranged 20m, AoE 3m radius = 24 CP (10% of primary, as long as total cost doesn't exceed primary)
+- **Primary attack:** Energy blast 4d6, ranged 50m, with above limitations = 240 CP
+- **Melee variant:** Same energy power at touch range = 24 CP (10% of primary)
+- **Area effect variant:** Energy blast 3d6, ranged 20m, AoE 3m radius = 24 CP (10% of primary)
+
+This gives you three different attack options for 288 CP instead of buying each separately. Still expensive, but more manageable with 150 base CP.
 
 **How does your character avoid being incapacitated?**
 
@@ -201,119 +203,86 @@ Here are some pre-built power packages for common archetypes, adapted for the Sh
 
 **Concept:** When you activate your shine, your mass, strength, and skin density dramatically increase.
 
-- **Primary Attack:** Reduce Body 5d6 (75 CP)
-  - Limitations: Hand-to-hand only (0.5), requires high mass form (0.25)
-  - Cost: 75/1.75 ≈ 43 CP
+**Attributes:**
+- ACT 3d6 (27 CP), ACC 3d6 (9 CP), DEF 3d6 (9 CP), PER 3d6 (9 CP)
+- **Total:** 54 CP
 
-- **Resistance:** Resist Body reduction 4d6 (60 CP raw strength)
-  - Limitations: Only when in high mass form (0.5), reduced mobility when active (0.25)
-  - Cost: 60/1.75 ≈ 34 CP
+**Powers:**
+- **Primary Attack:** Reduce Body 5d6 (75 CP), hand-to-hand only (0.5), requires high mass form (0.25) = 43 CP
+- **Resistance:** Resist Body reduction 4d6 (60 CP raw strength), only when in high mass form (0.5), reduced mobility (0.25) = 34 CP
+- **Enhanced Leaping:** Move 10m (2 CP), only for jumping (0.5) = 1.3 CP
+- **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
+- **Total:** 79 CP
 
-- **Attributes:** ACT 3d6 (27 CP), ACC 3d6 (9 CP), DEF 3d6 (9 CP), PER 3d6 (9 CP)
+**Civilian Skills (10-15 CP recommended)**
 
-**Total: 43 + 34 + 54 = 131 CP** (need to reduce or add more limitations)
+**Total Build:** 54 + 79 + 15 = 148 CP (within 150 base + 20-30 problems = 170-180 CP)
 
 #### Speedster
 
 **Concept:** Your shine dramatically increases your speed and reaction time.
 
-- **Movement:** Move 30m (6 CP)
-  - Advantages: None needed
-  - Limitations: Speed inertia (can change speed 10m/round) (0.25), requires open space (0.25)
-  - Cost: 6/1.5 = 4 CP
+**Attributes:**
+- ACT 4d6 (39 CP), ACC 4d6 (12 CP), DEF 4d6 (12 CP), PER 3d6 (9 CP)
+- **Total:** 72 CP
 
-- **Improved ACT:** Improve ACT 3d6 (45 CP)
-  - Limitations: Self only (0.5), constant drain (requires active maintenance) (0.5)
-  - Cost: 45/2 ≈ 23 CP
+**Powers:**
+- **Super Speed:** Move 30m (6 CP), speed inertia (0.25), requires open space (0.25) = 4 CP
+- **Enhanced Reactions:** Improve ACT 3d6 (45 CP), self only (0.5), constant drain (0.5) = 23 CP
+- **Quick Strikes:** Reduce Body 3d6 (45 CP), hand-to-hand only (0.5), requires high ACT (0.25) = 26 CP
+- **Evasion:** Unopposed Skill: Dodge 3d6 = 9 CP
+- **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
+- **Total:** 63 CP
 
-- **Quick Strikes:** Reduce Body 3d6 (45 CP)
-  - Advantages: Can attack multiple times per round
-  - Limitations: Hand-to-hand only (0.5), requires high ACT to use effectively (0.25)
-  - Cost: 45/1.75 ≈ 26 CP
+**Civilian Skills (10-15 CP recommended)**
 
-- **Attributes:** ACT 4d6 (39 CP), ACC 4d6 (12 CP), DEF 4d6 (12 CP), PER 3d6 (9 CP)
-
-**Total: 4 + 23 + 26 + 72 = 125 CP** (reasonable with some civilian skills cut)
+**Total Build:** 72 + 63 + 15 = 150 CP (within 150 base + 20-30 problems = 170-180 CP)
 
 #### Energy Projector
 
 **Concept:** Your shine allows you to project energy blasts.
 
-**Energy Blast:** Reduce Body 4d6 (60 CP)
-  - Advantages: Ranged 40m (×7) = 420 CP
-  - Limitations: Gestures (0.5), verbal component (0.5), visible attack (0.25), requires concentration (0.5)
-  - Cost: 420/2.75 ≈ 153 CP
+**Attributes:**
+- ACT 3d6 (27 CP), ACC 4d6 (12 CP), DEF 3d6 (9 CP), PER 3d6 (9 CP)
+- **Total:** 57 CP
 
-This is too expensive! Use the Variant system:
+**Powers:**
+- **Primary Energy Blast:** Reduce Body 3d6 (45 CP), ranged 30m (×6) = 270 CP, with limitations: gestures (0.5), visible attack (0.25), requires aiming (0.25) = 135 CP
+- **Variant: Rapid Fire:** 2d6, ranged 30m, can hit multiple targets = 14 CP (10% of primary)
+- **Variant: Overcharge:** 4d6, ranged 30m, extra time (2 actions to charge) = 14 CP (10% of primary)
+- **Energy Shield:** Resistance to Body 2d6 (30 CP raw strength), requires concentration (0.5), visible effect (0.25) = 17 CP
+- **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
+- **Total:** 181 CP
 
-- **Primary blast:** 4d6, ranged 40m, with above limitations = 153 CP (leave 1 limitation slot flexible)
-  - Cost with Flexible Advantage (can use any combination of advantages up to half cost): Still expensive
+**Civilian Skills (10-15 CP recommended)**
 
-Alternative approach:
+**Total Build:** 57 + 181 + 15 = 253 CP
 
-- **Energy Blast:** Reduce Body 3d6 (45 CP)
-  - Advantages: Ranged 30m (×6) = 270 CP
-  - Limitations: Gestures (0.5), visible attack (0.25), requires aiming (0.25)
-  - Cost: 270/2 = 135 CP
-
-Still expensive but more reasonable. Add:
-
-- **Variant: Rapid fire:** 2d6, ranged 30m, can hit multiple targets = 13.5 CP (10% of primary)
-- **Variant: Overcharge:** 4d6, ranged 30m, extra time (2 actions) = 13.5 CP (10% of primary)
-
-- **Attributes:** ACT 3d6 (27 CP), ACC 4d6 (12 CP), DEF 3d6 (9 CP), PER 3d6 (9 CP)
-
-**Total: 135 + 13.5 + 13.5 + 57 = 219 CP** (still over budget!)
-
-The solution is to either:
-1. Accept fewer dice of damage
-2. Add more limitations
-3. Reduce range
-
-Let's try: 2d6 ranged 20m with heavy limitations:
-
-- **Energy Blast:** Reduce Body 2d6 (30 CP)
-  - Advantages: Ranged 20m (×5) = 150 CP
-  - Limitations: Gestures (0.5), verbal component (0.5), visible attack (0.25), extra time: 1 action to charge (0.5), cool down: exhausts for 3 actions after use (1.0)
-  - Cost: 150/3.75 ≈ 40 CP
-
-Now add variants at 10% cost (4 CP each):
-
-- **Variant: Sustained beam:** Can maintain for multiple actions without cool down, but lower damage
-- **Variant: Spread shot:** Area effect but even lower damage
-
-**Total: 40 + 4 + 4 + 57 (attributes) + 10-20 (civilian) = 115-125 CP** (now reasonable!)
+**Note:** This archetype is expensive! To fit within budget (150 base + 20-30 problems = 170-180 CP), consider:
+- Reducing primary blast to 2d6 (saves ~90 CP)
+- Taking 30 CP in problems instead of 20
+- Reducing range to 20m
+- Omitting the energy shield or variants
 
 #### Mentalist
 
 **Concept:** Your shine gives you telepathic abilities.
 
-- **Telepathy Suite:**
-  - Detect: Thoughts, 3d6 (9 CP)
-    - Advantages: Range 20m (×5) = 45 CP
-    - Limitations: Requires concentration (0.5), line of sight (0.5)
-    - Cost: 45/2 ≈ 23 CP
+**Attributes:**
+- ACT 3d6 (27 CP), ACC 3d6 (9 CP), DEF 4d6 (12 CP), PER 5d6 (15 CP)
+- **Total:** 63 CP (mentalists need high PER)
 
-  - Signal: Mental communication, 2d6 (6 CP)
-    - Advantages: Range 20m (×5) = 30 CP, multiple recipients (×2) = 60 CP
-    - Limitations: Requires concentration (0.5), line of sight (0.5), only willing recipients (0.5)
-    - Cost: 60/2.5 = 24 CP
+**Powers:**
+- **Detect Thoughts:** Detect 3d6 (9 CP), range 20m (×5) = 45 CP, with limitations: requires concentration (0.5), line of sight (0.5) = 23 CP
+- **Telepathic Communication:** Signal 2d6 (6 CP), range 20m (×5) = 30 CP, multiple recipients (×2) = 60 CP, with limitations: requires concentration (0.5), line of sight (0.5), only willing recipients (0.5) = 24 CP
+- **Mental Attack:** Reduce Accuracy 2d6 (30 CP), ranged 10m (×4) = 120 CP, with limitations: line of sight (0.5), requires concentration (0.5), use PER resistance (0.5), extra time: 2 actions (0.5), cool down: 3 actions (1.0) = 30 CP
+- **Mental Shield:** Resistance to mental attacks 2d6 (30 CP raw strength), only vs. mental powers (0.5) = 20 CP
+- **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
+- **Total:** 98 CP
 
-  - Mental Attack: Reduce Accuracy 3d6 (45 CP)
-    - Advantages: Ranged 10m (×4) = 180 CP
-    - Limitations: Use different resistance (vs. PER defense) (×2 after other mods), line of sight (0.5), requires concentration (0.5)
-    - Cost: 180×2/2 = 180 CP (way too expensive!)
+**Civilian Skills (10-15 CP recommended)**
 
-Reduce to: Reduce Accuracy 2d6, ranged 10m, heavy limitations:
-
-- **Mental Attack:** Reduce Accuracy 2d6 (30 CP)
-  - Advantages: Ranged 10m (×4) = 120 CP
-  - Limitations: Line of sight (0.5), requires concentration (0.5), use PER resistance (0.5, since not as extreme as ×2), extra time: 2 actions (0.5), cool down: 3 actions (1.0)
-  - Cost: 120/4 = 30 CP
-
-- **Attributes:** ACT 3d6 (27 CP), ACC 3d6 (9 CP), DEF 4d6 (12 CP), PER 5d6 (15 CP) - mentalists need high PER
-
-**Total: 23 + 24 + 30 + 63 = 140 CP** (high, but mentalists are expensive; may need to reduce or add limitations)
+**Total Build:** 63 + 98 + 15 = 176 CP (requires 25-30 CP in problems to fit budget)
 
 ### Power Construction Guidelines
 
@@ -341,7 +310,8 @@ When building powers for this campaign:
 - Psychological aversion to yellows (Common, Severe): 10 CP
 - Dependents: Elderly parents who depend on his income (Common, Mild): 5 CP
 - Physical limitation: Powers drain energy, needs lots of food (Common, Mild): 5 CP
-**Total Problems: 20 CP**
+- Social: Known for disappearing during emergencies (Uncommon, Mild): 3 CP
+**Total Problems: 23 CP**
 
 **Attributes:**
 - ACT 3d6: 27 CP
@@ -355,18 +325,20 @@ When building powers for this campaign:
 - Background: First aid (2d6): 2 CP
 - Systems: Heavy equipment operation (2d6): 2 CP
 - Communication: Spanish (native level): 1 CP
-**Total: 8 CP**
+- Unopposed Skill: Athletics (2d6): 2 CP
+**Total: 10 CP**
 
 **Powers:**
-- Reduce Body 5d6, hand-to-hand, requires high-mass form (0.75 total limitations): 43 CP
-- Resistance: Body 4d6 raw strength, only when in high-mass form (0.5), reduced mobility (0.25): 34 CP
-- Improve: Move 10m (only for leaping/jumping) (1.0): 2 CP (represents powerful legs)
-- Signal: Purple glow (standard): 1 CP
-**Total: 80 CP**
+- **Mighty Strike:** Reduce Body 5d6 (75 CP), hand-to-hand (0.5), requires high-mass form (0.25) = 43 CP
+- **Tough Skin:** Resistance: Body 4d6 raw strength (60 CP), only when in high-mass form (0.5), reduced mobility (0.25) = 34 CP
+- **Powerful Leap:** Move 10m (2 CP), only for leaping/jumping (0.5) = 1.3 CP
+- **Ground Slam:** Reduce Body 3d6 (45 CP), AoE 3m radius (×2) = 90 CP, requires ground contact (0.5), extra time: 1 action (0.5), hand-to-hand (0.5) = 38 CP
+- **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
+**Total: 117 CP**
 
-**Total CP: 54 + 8 + 80 = 142 CP from base 100 + 20 from problems = 120 CP available**
+**Total CP: 54 + 10 + 117 = 181 CP from base 150 + 23 problems = 173 CP available**
 
-(Need to reduce by 22 CP - could lower resistance to 3d6, reduce some skills, or add more limitations)
+**Build Notes:** Slightly over budget by 8 CP. Can be adjusted by reducing Ground Slam range, taking another 5-7 CP problem, or reducing one attribute by 1d6.
 
 #### "Zephyr" - The Speedster
 
@@ -378,7 +350,8 @@ When building powers for this campaign:
 - Psychological aversion to yellows (Common, Severe): 10 CP
 - Psychological: Impulsive, acts without thinking (Common, Mild): 5 CP
 - Social: Known for being "weird" and unreliable in civilian life (Common, Mild): 5 CP
-**Total Problems: 20 CP**
+- Physical: Metabolism requires frequent eating (Uncommon, Mild): 3 CP
+**Total Problems: 23 CP**
 
 **Attributes:**
 - ACT 5d6: 48 CP
@@ -391,20 +364,21 @@ When building powers for this campaign:
 - Background: Bay Area geography (3d6): 3 CP
 - Systems: Bicycle repair (2d6): 2 CP
 - Communication: Persuasion (2d6): 2 CP
-- Unopposed: Acrobatics (3d6): 3 CP
+- Unopposed Skill: Acrobatics (3d6): 3 CP
 **Total: 10 CP**
 
 **Powers:**
-- Move: 40m, speed inertia (0.25), requires running space (0.25): 8/1.5 ≈ 5 CP
-- Reduce Body 2d6, hand-to-hand, requires high-speed approach (0.5): 30/1.5 = 20 CP
-- Improve ACT 2d6 (30 CP), self-only (0.5), requires concentration (0.5): 30/2 = 15 CP
-- Evasion skill 3d6: 9 CP
-- Signal: Purple glow (standard): 1 CP
-**Total: 50 CP**
+- **Super Speed:** Move 40m (8 CP), speed inertia (0.25), requires running space (0.25) = 5.3 CP
+- **Lightning Strike:** Reduce Body 2d6 (30 CP), hand-to-hand (0.5), requires high-speed approach (0.5) = 15 CP
+- **Speed Burst:** Improve ACT 2d6 (30 CP), self-only (0.5), requires concentration (0.5) = 15 CP
+- **Quick Reflexes:** Unopposed Skill: Evasion 4d6 = 12 CP
+- **Vibration Touch:** Reduce Body 3d6 (45 CP), hand-to-hand (0.5), requires vibrating at high speed (0.5), extra time: 2 actions (0.5) = 18 CP
+- **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
+**Total: 66 CP**
 
-**Total CP: 81 + 10 + 50 = 141 CP from base 100 + 20 from problems = 120 CP available**
+**Total CP: 81 + 10 + 66 = 157 CP from base 150 + 23 problems = 173 CP available**
 
-(Need to reduce by 21 CP - could lower some attributes or skills)
+**Build Notes:** Well within budget with 16 CP to spare for additional skills, powers, or higher attributes.
 
 ### Campaign-Specific Rules
 
