@@ -1,6 +1,6 @@
 # Epiphaneia: A Fantasy World Sourcebook
 
-## Table of Contents
+### Table of Contents
 
 1. [The World of Epiphaneia](#the-world-of-epiphaneia)
 2. [The Dwarves](#the-dwarves)
@@ -15,23 +15,23 @@
 
 ---
 
-# The World of Epiphaneia
+## The World of Epiphaneia
 
 In Epiphaneia, each people sees others as simple stereotypes, while grappling with complex internal realities that outsiders rarely glimpse.
 
-## The Dwarves
+### The Dwarves
 Outsiders see: Gruff Scottish warriors who love gold, beer, and fighting
 Reality: A sophisticated diaspora culture balancing tradition and adaptation. Their crafts are sacred acts of transformation, their "gruffness" is dugri-style direct speech, their martial readiness comes from hard lessons about defending their people. Mountain kingdoms and diaspora communities maintain complex relationships, with ongoing debates about tradition, adaptation, and identity taking place in both Khuzdul and accented Common.
 
-## The Elves
+### The Elves
 Outsiders see: Mystical forest-dwellers in perfect harmony with nature and magic
 Reality: A society deeply divided over magical technology and environmental preservation. Some advocate for magical solutions to save dying forests, others warn of unforeseen consequences. Their legendary aloofness masks intense internal debates about development, preservation, and responsibility. Their bow mastery comes from defending preserves, not natural affinity.
 
-## The Halflings
+### The Halflings
 Outsiders see: Jolly, simple folk who love comfort and good food
 Reality: A society with deep class consciousness and complex labor politics, carefully hidden behind a facade of rustic simplicity. Traditional communal rights clash with wealthy landowners, while underground organization occurs beneath the veneer of pastoral contentment. They strategically use their "simple folk" image to avoid outside interference.
 
-## The Humans
+### The Humans
 Outsiders see: Adaptable diplomats who get along with everyone
 Reality: A fractured society endlessly splitting over interpretations of their ancient Text. Their apparent adaptability comes from endless doctrinal schisms forcing different groups to deal with outsiders. Each community has elaborate theological frameworks justifying which non-human practices are acceptable, while maintaining complex rules about interactions with other human groups.
 
@@ -39,85 +39,85 @@ In Epiphaneia, these surface perceptions - these epiphaneiai - serve both as shi
 
 ---
 
-# The Dwarves
+## The Dwarves
 
-## Overview
+### Overview
 In the world of Epiphaneia, dwarves are perhaps the most misunderstood of all peoples. Where outsiders see only drunken, stubborn warriors obsessed with gold, the reality reveals a culture of profound depth - one where scholarly debate is as valued as martial skill, where brewing is a sacred art, and where tradition and innovation engage in constant dialogue. This guide explores both the stereotypes that dwarves often strategically allow others to believe, and the complex reality that lies beneath.
 
-## The Two Pillars: Mountain and Diaspora
+### The Two Pillars: Mountain and Diaspora
 
-### Mountain Kingdoms
+#### Mountain Kingdoms
 The ancient mountain holds serve as cultural anchors and sacred spaces:
 - The Deep Archives: Libraries preserving historical records and religious commentary
 - The Forges of Memory: Where traditional crafting techniques are taught and preserved
 - The Halls of Assembly: Community spaces for debate, celebration, and prayer
 - The Gates of Welcome: Diplomatic chambers demonstrating dwarven hospitality and strength
 
-### Diaspora Communities
+#### Diaspora Communities
 Scattered dwarven communities represent cultural dynamism and adaptation:
 - Trading Enclaves: Centers of craft and commerce
 - Community Centers: Hubs for education, worship, and cultural preservation
 - Defense Networks: Interconnected communities maintaining military readiness
 - Cultural Bridges: Communities fostering inter-racial understanding and cooperation
 
-## Society and Gender
+### Society and Gender
 
-### Equality in All Things
+#### Equality in All Things
 Dwarven society makes no distinction between genders in any sphere of life:
 - Both men and women grow and maintain beards as signs of maturity
 - All dwarves receive the same military and craft training
 - Leadership positions are awarded based on merit alone
 - Marriage customs focus on partnership of equals
 
-### Physical Characteristics
+#### Physical Characteristics
 Dwarven sexual dimorphism is minimal:
 - Similar height and build across genders
 - Comparable muscle mass due to universal craft training
 - Facial hair growth in all adults
 - Deep voices regardless of gender
 
-## Universal Military Service
+### Universal Military Service
 
-### The Citizen-Crafter Tradition
+#### The Citizen-Crafter Tradition
 Every dwarf, regardless of gender or profession, is trained in both craft and combat:
 - Military service is universal and begins in adolescence
 - Combat training focuses on weapons that double as tools
 - The axe and hammer are favored for their dual utility in craft and combat
 - Regular drills maintain community readiness
 
-### Tools of Peace and War
+#### Tools of Peace and War
 Dwarven equipment reflects their practical approach to defense:
 - Mining picks serve as emergency polearms
 - Forge hammers double as war hammers
 - Woodcutting axes transition to battle axes
 - Work aprons are reinforced to serve as light armor
 
-## Language and Communication
+### Language and Communication
 
-### Direct Speech
+#### Direct Speech
 Dwarven communication values clarity and precision:
 - Direct statements are considered respectful
 - Technical accuracy is prized over flowery language
 - Criticism is given and received as a sign of trust
 - Different levels of directness mark different social contexts
 
-### Linguistic Traditions
+#### Linguistic Traditions
 Dwarven language reflects their dual heritage:
 - The ancient tongue for prayers and ceremonies
 - Common spoken with distinct accents marking community origin
 - Technical terminology specific to different crafts
 - Formal speech patterns for diplomatic and legal matters
 
-## The Sacred Arts of Crafting
+### The Sacred Arts of Crafting
 
-### Craft as Connection
+#### Craft as Connection
 Crafting serves as both practical skill and spiritual practice:
 - Each craft guild maintains its own traditions and prayers
 - Apprenticeship combines technical and spiritual instruction
 - Materials are treated with reverence and respect
 - Crafting is seen as dialogue with tradition
 
-### The Sacred Craft of Brewing
+#### The Sacred Craft of Brewing
 Among the most misunderstood dwarven traditions is their relationship with brewing:
 - Beer-making is considered one of the sacred crafts
 - Each significant life event and religious observance includes specific brewing traditions
@@ -126,16 +126,16 @@ Among the most misunderstood dwarven traditions is their relationship with brewi
 - Brewing prayers and songs are passed down through generations
 - The sharing of beer represents community and welcome
 
-### Innovation in Context
+#### Innovation in Context
 Modern dwarven society actively engages with change:
 - New techniques are evaluated through community discourse
 - Innovation councils include both craft and religious authorities
 - Traditional methods inform modern adaptations
 - Each generation adds its own commentary to craft-lore
 
-## Cultural Ceremonies and Celebrations
+### Cultural Ceremonies and Celebrations
 
-### Sacred Occasions
+#### Sacred Occasions
 Dwarven ceremonies integrate multiple craft traditions:
 - Coming of age ceremonies include the youth's first crafted beer
 - Marriage celebrations feature specially brewed ceremonial ales
@@ -143,16 +143,16 @@ Dwarven ceremonies integrate multiple craft traditions:
 - Community festivals align different craft demonstrations with traditional brews
 - Seasonal observances each have their own brewing requirements
 
-### Modern Observance
+#### Modern Observance
 Contemporary dwarven communities maintain these traditions while adapting to current circumstances:
 - Urban communities maintain small-scale ceremonial breweries
 - Traditional brewing songs are taught alongside modern craft techniques
 - Innovation in brewing methods must respect ceremonial requirements
 - Different communities maintain varying levels of strictness in observance
 
-## Stereotypes and Reality
+### Stereotypes and Reality
 
-### What Others See
+#### What Others See
 The common perception of dwarves often reduces them to a collection of simplistic traits:
 - Drunk warriors who can't hold their beer
 - Stubborn traditionalists resistant to any change
@@ -161,52 +161,52 @@ The common perception of dwarves often reduces them to a collection of simplisti
 - Gold-obsessed misers hoarding wealth in mountains
 - Simple-minded craftsmen focused only on material goods
 
-### The Complex Reality
+#### The Complex Reality
 The truth of dwarven society reveals how these stereotypes misinterpret deeper cultural elements:
 
-#### "Drunk Warriors"
+##### "Drunk Warriors"
 - Reality: Sacred brewing traditions with deep ceremonial significance
 - Every brew has purpose and meaning in specific ceremonies
 - Brewing mastery requires years of study in both technique and tradition
 - Public drunkenness is considered deeply shameful
 - Ceremonial consumption follows strict religious guidelines
 
-#### "Stubborn Traditionalists"
+##### "Stubborn Traditionalists"
 - Reality: Sophisticated scholars engaged in constant debate
 - Traditions are actively discussed and reinterpreted for modern times
 - Innovation councils evaluate new methods and technologies
 - Each generation adds its own commentary to ancient texts
 - Different communities maintain varying interpretations
 
-#### "Gruff and Antisocial"
+##### "Gruff and Antisocial"
 - Reality: Direct communication valued as sign of respect
 - Complex social networks maintain community connections
 - Diplomatic skill highly valued in community leaders
 - Different levels of directness for different social contexts
 - Strategic use of stereotypes in diplomatic relations
 
-#### "War-Mongering"
+##### "War-Mongering"
 - Reality: Commitment to community defense born of historical necessity
 - Military training integrated with craft and community service
 - Weapons designed as dual-purpose tools
 - Universal service creates community solidarity
 - Martial traditions preserve cultural knowledge
 
-#### "Gold-Obsessed"
+##### "Gold-Obsessed"
 - Reality: Deep appreciation for craft as spiritual practice
 - Material wealth valued for community benefit
 - Complex systems of community support and charity
 - Craft guilds maintain both technical and ethical standards
 - Resources seen as community trust rather than personal wealth
 
-#### "Simple-Minded Craftsmen"
+##### "Simple-Minded Craftsmen"
 - Reality: Sophisticated intellectual tradition
 - Craft mastery requires extensive theological study
 - Innovation evaluated through complex ethical frameworks
 - Ongoing debates about adaptation and preservation
 - Rich tradition of legal and philosophical discourse
 
-### The Art of Debate
+#### The Art of Debate
 Perhaps nothing better illustrates the gap between stereotype and reality than dwarven argumentative traditions:
 - Complex formal rules for scholarly debate
 - Multiple schools of interpretation and argument
@@ -214,7 +214,7 @@ Perhaps nothing better illustrates the gap between stereotype and reality than d
 - Debate seen as way to honor ancestors through engagement with tradition
 - Young dwarves trained in logic and rhetoric alongside craft skills
 
-### Strategic Use of Stereotypes
+#### Strategic Use of Stereotypes
 Dwarven communities often strategically maintain certain stereotypes:
 - "Gruff warrior" image provides diplomatic advantage
 - Perceived isolationism allows cultural autonomy
@@ -222,9 +222,9 @@ Dwarven communities often strategically maintain certain stereotypes:
 - "Simple craftsmen" image masks sophisticated economic networks
 - Communities maintain different levels of openness to outsiders
 
-## Modern Dwarven Identity
+### Modern Dwarven Identity
 
-### Balancing Tradition and Change
+#### Balancing Tradition and Change
 Contemporary dwarven society navigates multiple identities:
 - Pride in cultural traditions while embracing necessary changes
 - Maintenance of distinct identity while engaging with other races
@@ -232,7 +232,7 @@ Contemporary dwarven society navigates multiple identities:
 - Integration of ancient wisdom with modern innovations
 - Ongoing dialogue between different community interpretations
 
-### Living Traditions
+#### Living Traditions
 Rather than static preservation, dwarven traditions remain vital through:
 - Active debate and reinterpretation
 - Adaptation to new circumstances
@@ -242,124 +242,124 @@ Rather than static preservation, dwarven traditions remain vital through:
 
 ---
 
-# The Elves
+## The Elves
 
-## Overview
+### Overview
 To outsiders, elves appear as mystic forest-dwellers who have achieved perfect harmony with nature, effortlessly blending magic and wilderness in an ancient and unchanging dance. They see graceful archers and powerful spellcasters who live in tree-cities that seem to have grown naturally from the forest itself. This serene surface image masks one of Epiphaneia's most conflicted societies, though outsiders rarely if ever glimpse these tensions.
 
-## The Surface Image
+### The Surface Image
 The common perception of elves is remarkably consistent across other races and cultures. They are seen as mystical beings in perfect harmony with nature, innately talented in both archery and spellcraft. Their reputation for serenity and aloofness is matched only by their supposed unity in protecting the wilderness. These stereotypes are so deeply ingrained that even when outsiders spend significant time among elves, they typically see only what confirms these preconceptions. The elves themselves neither confirm nor deny these impressions, finding them occasionally useful as a shield for their internal discourse.
 
-## The Complex Reality
+### The Complex Reality
 Behind closed doors, elven society grapples with an escalating environmental crisis. Their ancient forests are dying, though few outsiders recognize the subtle signs. What appears to others as serene acceptance of natural cycles masks fierce debates over the role of magical intervention in forest health. These discussions encompass everything from the appropriate scale of environmental manipulation to the very limits of acceptable magical technology.
 
 Rather than clear factions, elven society encompasses a complex spectrum of views on magical intervention and environmental stewardship. While some advocate for minimal intervention, others propose aggressive magical solutions, but most elves hold nuanced positions that shift based on specific circumstances. To outsiders, these crucial differences are entirely invisible, masked by the elves' unified public presentation.
 
-## Magic and Technology
+### Magic and Technology
 What outsiders see as "natural" elven magic is often highly sophisticated magical technology, carefully designed to appear organic and effortless. Their tree-cities, rather than being simple growths, are actually complex magical engineering projects, though this truth is carefully obscured from outside observers.
 
 Modern elven magical innovation includes environmental monitoring systems disguised as natural formations and magical climate control that appears to be natural weather. They have developed sophisticated growth enhancement spells that mimic natural processes and ecosystem management systems hidden within traditional rituals. Even their magical waste processing is designed to leave no visible trace.
 
 All of this innovation remains invisible to outsiders, who see only beautiful forest dwellings that seem to have grown naturally and seemingly effortless magic that appears purely instinctive. The harmonious integration with nature that others so admire is often the result of careful technological planning and implementation, though this fact is never revealed to non-elves.
 
-## Military Traditions
+### Military Traditions
 The legendary elven skill with bow and blade is actually the result of intensive training and magical enhancement, though outsiders perceive it as natural talent. What appears as innate grace is carefully cultivated through rigorous physical training disguised as ritual dance and magical enhancement systems hidden within traditional ceremonies. Their combat techniques are carefully designed to appear effortless, while their strategic use of the environment is made to seem instinctive rather than the result of careful study and practice.
 
-## Governance and Education
+### Governance and Education
 What outsiders see as simple forest communities are actually sophisticated societies with complex governance structures. Important decisions involve extensive debate and careful consideration of magical and environmental implications, though all of this takes place entirely out of sight of other races.
 
 Young elves learn to maintain the public image while mastering increasingly sophisticated magical technology. Their education goes far beyond the simple nature communion that outsiders imagine, encompassing everything from complex magical theory to the art of making that complexity appear natural and effortless. They learn ways to discuss controversial issues without revealing internal debates and techniques for maintaining the appearance of serene wisdom, all while studying methods of disguising technological innovation as tradition.
 
-## Modern Challenges
+### Modern Challenges
 Contemporary elven society faces increasing difficulty maintaining its serene exterior while grappling with accelerating forest decline that must be hidden from outsiders. The challenge of integrating new magical technology while appearing traditional grows more complex with each passing year. Managing internal debates without revealing divisions requires ever more sophisticated approaches, as does adaptation to change while seeming unchanging.
 
 The preservation of actual traditions alongside innovation presents its own challenges. Elven society must constantly balance the need for new solutions with the importance of maintaining their public image of timeless wisdom and natural harmony.
 
-## Strategic Use of Appearance
+### Strategic Use of Appearance
 Elven society carefully maintains its external appearance through a complex web of practices and policies. Technological innovation is consistently disguised as ancient tradition, while internal debates are presented to outsiders as serene contemplation. Signs of forest decline are hidden through magical illusion, and complex magical engineering is made to appear natural. The impression of effortless harmony is preserved through careful attention to every detail of public presentation.
 
-## Conclusion
+### Conclusion
 The reality of elven society in Epiphaneia is far more complex than the serene surface visible to outsiders. Their apparent harmony with nature masks sophisticated magical technology and fierce internal debates about environmental intervention. Yet so effective is their public presentation that even those who live among them rarely glimpse these deeper truths. Understanding modern elven society requires looking past not only the comfortable stereotypes but also the carefully maintained image that elves themselves present to the world.
 
 ---
 
-# The Halflings
+## The Halflings
 
-## Overview
+### Overview
 To outsiders, halflings appear as the very model of pastoral contentment: jolly small folk whose greatest concerns center around the quality of their tea and the timing of their meals. Their villages seem to embody a kind of rural idyll that other races often yearn for, with their well-tended gardens, cozy homes, and seemingly endless capacity for hospitality. This carefully maintained facade masks one of Epiphaneia's most class-conscious societies, where ancient rights and modern realities clash beneath a veneer of rustic simplicity.
 
-## The Surface Image
+### The Surface Image
 Other races see halflings as simple country folk whose concerns rarely extend beyond their next meal or local festival. Their reputation for hospitality and good cheer is matched only by their supposed lack of ambition or interest in the wider world. These stereotypes are so deeply ingrained that even when outsiders spend considerable time in halfling communities, they typically notice only what reinforces these preconceptions. The halflings themselves actively cultivate these impressions, finding them invaluable shields for their internal discourse.
 
-## The Complex Reality
+### The Complex Reality
 Behind closed doors and in quiet conversations over late-night tea, halfling society grapples with intense class consciousness and complex labor politics. What appears to outsiders as charming tradition masks fierce debates over communal rights, land ownership, and social mobility. The seemingly simple practice of afternoon tea, for instance, represents an elaborate social ritual where class distinctions are simultaneously enforced and subtly challenged through intricate codes of etiquette and invitation.
 
 Rather than clear divisions between landowners and tenants, halfling society encompasses a complex web of traditional rights, modern property law, and unwritten social obligations. While some advocate for maintaining traditional systems of mutual obligation, others push for more modern contractual relationships, but most halflings navigate a careful balance between old and new forms of social organization.
 
-## Property and Rights
+### Property and Rights
 What outsiders see as quaint customs around land ownership often disguise sophisticated systems of communal rights and obligations. The traditional practice of "common walking" - where villagers can follow certain paths through private gardens - represents centuries of negotiated rights of way. These paths, which appear charmingly haphazard to visitors, actually form carefully maintained networks of public access that preserve ancient communal rights within modern property arrangements.
 
 Modern halfling communities maintain complex systems of shared resources hidden beneath seemingly simple arrangements. Their famous community gardens, rather than being simply pleasant gathering spaces, operate under intricate rules governing usage rights, harvest sharing, and maintenance obligations. Even their practice of gift-giving, which appears charmingly generous to outsiders, follows sophisticated social codes that reinforce community bonds while preserving class distinctions.
 
-## Social Organization
+### Social Organization
 The apparent simplicity of halfling village life masks highly sophisticated social networks. What outsiders see as mere gossip over garden fences often represents complex information-sharing systems that maintain community cohesion while negotiating social boundaries. Their fondness for large family gatherings and multiple meals serves as cover for community organization and the maintenance of labor networks.
 
 The halfling practice of "second breakfast" and other multiple meals, rather than simple indulgence, creates regular opportunities for social negotiation and community planning. These meals follow intricate but unwritten rules about who can meet with whom, when, and in what context. The seemingly casual practice of dropping by for tea actually operates under sophisticated social codes that everyone understands but no one openly acknowledges.
 
-## Education and Inheritance
+### Education and Inheritance
 Young halflings learn to navigate complex social hierarchies while maintaining the appearance of rustic simplicity. Their education goes far beyond the farming and cooking that outsiders observe, encompassing intricate social codes, community history, and the art of subtle resistance. They learn ways to discuss controversial issues without appearing to do so and techniques for maintaining community solidarity while seeming to care only about personal comfort.
 
 The transmission of property and position, while appearing to follow simple family lines, actually involves complex networks of obligation and reciprocity. Inheritance practices that seem straightforwardly patrilineal to outsiders often mask sophisticated arrangements that preserve both family wealth and community access to resources.
 
-## Modern Challenges
+### Modern Challenges
 Contemporary halfling society faces increasing difficulty maintaining its simple exterior while grappling with modernization and economic pressure. The challenge of preserving communal rights while adapting to changing economic realities grows more complex with each passing year. Managing internal class tensions without revealing them to outsiders requires ever more sophisticated approaches, as does adaptation to change while seeming unchanging.
 
 The preservation of actual traditions alongside necessary innovation presents particular challenges. Halfling society must constantly balance the need for new economic forms with the importance of maintaining their public image of simple contentment and the reality of their complex social arrangements.
 
-## Strategic Use of Appearance
+### Strategic Use of Appearance
 Halfling society carefully maintains its external appearance through a sophisticated web of social practices. Class consciousness is hidden behind elaborate shows of universal hospitality, while community organization is disguised as simple neighborliness. Signs of social tension are masked through ritualized politeness, and complex social negotiations are made to appear as casual conversations over tea and cake. The impression of simple contentment is preserved through careful attention to every detail of public presentation.
 
-## Conclusion
+### Conclusion
 The reality of halfling society in Epiphaneia is far more complex than the simple pastoral contentment visible to outsiders. Their apparent focus on comfort and food masks sophisticated social networks and fierce internal debates about rights and tradition. Yet so effective is their public presentation that even those who live among them rarely glimpse these deeper truths. Understanding modern halfling society requires looking past not only the comfortable stereotypes but also the carefully maintained image that halflings themselves present to the world.
 
 ---
 
-# The Humans
+## The Humans
 
-## Overview
+### Overview
 While other races see humans as natural diplomats and adaptable generalists, the reality of human society in Epiphaneia is far more complex. What appears as diplomatic flexibility to outsiders is actually the result of centuries of theological debate, doctrinal schisms, and carefully negotiated religious understanding. Every human community's interactions with other races are governed by elaborate theological frameworks, while maintaining even more complex rules about interactions with other human groups.
 
-## The Sacred Text and Its Reading
+### The Sacred Text and Its Reading
 
 The foundation of human society centers around their sacred Text, whose origins are hotly disputed between different communities. Multiple "original" versions exist, each championed by different groups who insist that they are simply reading the words as they are plainly written. Each community maintains that they alone approach the Text without interpretation or bias, simply accepting its clear and obvious meaning. The fact that these "clear and obvious" meanings differ radically between communities is a source of constant tension.
 
 The irony that other races find most striking about human society is that every community insists they are not interpreting the Text at all. "We simply read what is written," is a common refrain across all communities, even when they reach wildly different conclusions about what exactly is written. This commitment to "plain reading" has led to countless schisms, as each new disagreement results in communities dividing rather than admitting that interpretation is taking place.
 
-## Community Structure and Governance
+### Community Structure and Governance
 
 Human communities organize around those recognized as most skilled in discerning the Text's plain meaning. These scholars serve as both spiritual and civic leaders, though they would reject the term "interpreter" – they see themselves merely as careful readers who point out what is clearly written. When communities split, which happens with remarkable frequency, each group maintains that they have simply continued to read the Text as it is, while the other group has fallen into the trap of interpretation.
 
 The relationship between human communities is carefully regulated through complex protocols that each group insists are clearly mandated by the Text. Marriage between communities often requires extensive negotiation, not because the rules need interpretation (each group would insist), but because each community's "plain reading" of the Text results in different requirements that somehow must be reconciled.
 
-## Interaction with Other Races
+### Interaction with Other Races
 
 What appears to outsiders as natural diplomatic skill is actually the result of extensive theological frameworks that each community has developed through their reading of the Text. Each group maintains detailed positions on interaction with non-humans that they insist are simply what the Text plainly states. The fact that these "plain statements" vary widely between communities has led to a situation where different human groups interact with other races in radically different ways, each insisting their approach is the only one clearly supported by the Text.
 
 This variety of approaches has inadvertently served human communities well diplomatically, as other races can usually find a human community whose "plain reading" of the Text aligns with their preferred style of interaction. The humans themselves would reject any suggestion that this is diplomatic adaptability – each community maintains they are simply following what is written.
 
-## Education and Scholarship
+### Education and Scholarship
 
 The heart of human education is learning to read the Text properly – which each community insists is different from interpretation. Young people are taught from an early age to see the clear meaning that their community finds in the Text, while being warned against the dangerous practice of interpretation that other communities engage in. The fact that this process looks identical to what other communities describe as "interpretation" is a source of particular frustration in inter-community dialogues.
 
 Scholars spend their lives in careful study of the Text, producing volumes of explanation that they insist are not commentary but simply detailed documentation of what is plainly written. When new situations arise requiring guidance, scholars engage in careful examination of the Text to discover its obvious (to them) guidance on the matter.
 
-## Cultural Ceremonies and Modern Life
+### Cultural Ceremonies and Modern Life
 
 The practice of ceremonies and marking of life events varies dramatically between communities, with each insisting their practices are clearly mandated by the Text. What appears to outsiders as a bewildering variety of customs and observances is, to each community, simply the natural result of reading what is written. The fact that other communities, reading the same Text, reach completely different conclusions about these mandates is seen as evidence of others' failure to read plainly.
 
 In modern times, human communities face the challenge of applying ancient Text to new situations. Each community maintains that their approach to modern challenges is simply a matter of reading what is written and applying it straightforwardly to new circumstances. The fact that these "straightforward applications" differ radically between communities is seen by each group not as evidence of interpretation, but as proof that other communities have strayed from plain reading.
 
-## Strategic Use of Surface Perceptions
+### Strategic Use of Surface Perceptions
 
 While each community maintains internally that they simply read the Text as written, they often strategically allow outsiders to maintain simpler perceptions of human society. The appearance of diplomatic flexibility and easy adaptation masks the complex theological frameworks that actually govern inter-racial interactions. This strategic use of stereotypes allows human communities to maintain their distinct identities while engaging with other races on their own carefully regulated terms.
 
@@ -367,46 +367,46 @@ What appears to outsiders as pragmatic adaptation is actually the result of cent
 
 ---
 
-# The Crossroads Vale
+## The Crossroads Vale
 
-## Overview
+### Overview
 In the southeastern corner of the main continent lies a unique intersection of cultures known as the Crossroads Vale. Here, within a day's walk of each other, dwell representatives of all four major peoples of Epiphaneia. The vale itself is a natural bowl of fertile land, embraced by Mount Kzr to the north and sheltered by the towering Redcedar Forest to the east. The arrangement of settlements creates a microcosm of Epiphaneian society, where each culture maintains its distinct identity while engaging in complex patterns of trade and interaction.
 
-## Mount Kzr
+### Mount Kzr
 Rising majestically from the northern edge of the vale, Mount Kzr serves as both the region's most prominent landmark and its primary source of mineral wealth. The name, pronounced "Kazar" in common speech, comes from ancient Khuzdul roots meaning "memory" or "record." This meaning remains known only to the dwarves themselves, who maintain extensive archives within the mountain's depths alongside their famous forges and mines.
 
 The mountain's rich veins of copper and silver have made it a crucial center of trade, though the dwarves themselves speak more proudly of their archives than their mineral wealth. The visible portion of their settlement consists primarily of intricately carved diplomatic chambers and trading halls, while the true extent of their holdings remains hidden beneath the surface. These public spaces demonstrate both dwarven craftsmanship and their careful cultivation of their warrior-craftsman image, allowing visitors to see exactly what they expect to see in a dwarven settlement.
 
-## The Redcedar Forest
+### The Redcedar Forest
 To the east, the Redcedar Forest stands as a testament to elven stewardship - or so it appears to outsiders. The towering redcedars, reaching heights of over two hundred feet, create an awe-inspiring canopy under which the elves make their home. What visitors perceive as a pristine natural sanctuary is, in reality, an intricately managed ecosystem. Hidden magical technology maintains the health of these increasingly vulnerable ancient trees, though this fact remains carefully concealed from outsiders.
 
 The elves' tree-dwellings seem to have grown naturally from the massive redcedars, an illusion that the elves carefully maintain. These structures represent the pinnacle of their concealed magical engineering, combining organic growth with sophisticated magical support systems that remain invisible to the casual observer.
 
-## Whitbarrow Shire
+### Whitbarrow Shire
 The southern reaches of the vale are occupied by Whitbarrow Shire, named for the influential Whitbarrow family who maintain careful control over the region's most fertile farmlands. The shire's name derives ostensibly from an ancient white burial mound near its center, though this landmark's significance pales in comparison to the real sources of Whitbarrow power: control over water rights and mill access.
 
 The shire presents a perfect picture of halfling pastoral life, with its well-tended gardens, cozy burrows, and seemingly endless rounds of social calls. This carefully maintained facade masks sophisticated networks of obligation and influence. The Whitbarrow family's control over key agricultural resources remains obscured behind a veneer of traditional hospitality and rural simplicity.
 
-## New Light Settlement
+### New Light Settlement
 The western portion of the vale is home to New Light Settlement, established by the Illuminated Textual Literalists following their separation from a larger human denomination. The schism occurred over what they maintain is the only possible reading of certain Text passages regarding community organization and inter-racial commerce. Their interpretation, conveniently enough, positions them perfectly to serve as trade intermediaries within the vale.
 
 The settlement's architecture reflects their theological positions, with buildings arranged in what they insist is the only pattern clearly mandated by the Text. Their role as trade facilitators is likewise supported by careful textual analysis that just happens to justify beneficial economic arrangements with all other communities in the vale.
 
-## Regional Integration
+### Regional Integration
 The proximity of these settlements - each no more than four to six hours' walk from any other - creates unique patterns of daily interaction while still allowing each community to maintain its distinct identity. Mount Kzr's visibility from throughout the vale serves as a constant reminder of dwarven presence, while streams flowing from its slopes create natural connections between communities.
 
 Trade relationships in the vale demonstrate remarkable interdependence beneath their seemingly casual surface. The dwarves provide essential metalwork and stonecraft, particularly agricultural tools for the shire and hidden structural supports for elven tree-dwellings. The Whitbarrow Shire's agricultural abundance supplies the region's food, distributed through complex networks of obligation disguised as simple trade. The elves offer magical services and wooden crafts, carefully maintaining the impression that these are natural products rather than sophisticated magical artifacts. The humans of New Light Settlement facilitate much of this trade, their theological interpretations providing convenient justification for their role as intermediaries.
 
-## Hidden Complexities
+### Hidden Complexities
 The Crossroads Vale serves as a perfect example of how Epiphaneian societies maintain their surface appearances while engaging in complex interactions. Each community carefully preserves its expected image - the warrior-craftsman dwarves, the nature-mystic elves, the simple-farming halflings, and the adaptable humans - while pursuing sophisticated agendas beneath these facades. The vale's compact geography enables these intricate relationships while still allowing each group to maintain its distinct identity and careful illusions.
 
 The success of this arrangement relies on each community's ability to maintain its public image while engaging in necessary cooperation. The dwarves appear as expected while providing essential infrastructure, the elves maintain their mystical facade while deploying sophisticated magical technology, the halflings preserve their simple appearance while exercising significant economic control, and the humans justify everything through careful textual interpretation. Together, they have created a remarkably stable regional system, each playing their expected role while pursuing their actual interests beneath the surface.
 
 ---
 
-# Character Stat Blocks
+## Character Stat Blocks
 
-## Introduction
+### Introduction
 
 This chapter provides mechanical stat blocks using the Plasticine system for characters in Epiphaneia. These guidelines help players and Game Masters create characters that fit the world's themes while maintaining balanced gameplay.
 
@@ -415,7 +415,7 @@ The stat blocks are organized into two main sections:
 1. **Species Guidance**: Mechanical frameworks for Dwarves, Elves, Halflings, and Humans that reflect both their public stereotypes and hidden complexities
 2. **Adventuring Templates**: Common character archetypes that can be applied to any species
 
-### Power Levels
+#### Power Levels
 
 Epiphaneia campaigns can operate at different power levels depending on the desired tone:
 
@@ -433,16 +433,16 @@ The base package for all Epiphaneian characters includes:
 
 This means a 50 CP character has approximately 17 CP to spend on their unique capabilities, while a 100 CP character has 67 CP for specialization.
 
-## Species Stat Blocks
+### Species Stat Blocks
 
 In Epiphaneia, each species maintains carefully cultivated public images while grappling with complex internal realities. These stat blocks reflect both aspects, providing mechanical options that support either stereotype or deeper characterization.
 
-### The Dwarves
+#### The Dwarves
 
 **Public Image**: Gruff warriors obsessed with gold, beer, and fighting
 **Reality**: Sophisticated scholars with sacred crafting traditions and universal military service
 
-#### Cultural Problems
+##### Cultural Problems
 
 All dwarven characters should consider taking at least one of these problems:
 
@@ -461,7 +461,7 @@ All dwarven characters should consider taking at least one of these problems:
 - May need to interrupt adventures for religious observances
 - Others may not understand the spiritual significance of your work
 
-#### Characteristic Dwarven Abilities
+##### Characteristic Dwarven Abilities
 
 These powers and skills reflect both the stereotype and the reality:
 
@@ -512,7 +512,7 @@ Dwarves train extensively in defensive formations:
 - Limitation: Only when fighting alongside other dwarves (0.5)
 - Cost: 3/1.5 = 2 CP per die
 
-#### Sample Dwarven Characters
+##### Sample Dwarven Characters
 
 **Gritty Level: Diaspora Merchant Guard (45 CP)**
 - Base Package: 33 CP
@@ -555,12 +555,12 @@ Dwarves train extensively in defensive formations:
 - Detect: Craftsmanship quality 2d6, touch range: 6 CP
 - **Total: 83 CP** (slightly over, adjust as needed)
 
-### The Elves
+#### The Elves
 
 **Public Image**: Mystical forest-dwellers in perfect harmony with nature
 **Reality**: Environmentally stressed society using sophisticated magical technology
 
-#### Cultural Problems
+##### Cultural Problems
 
 **Problem: Must maintain serene facade while forest dies (5-10 CP)**
 - Cannot reveal true extent of environmental crisis
@@ -577,7 +577,7 @@ Dwarves train extensively in defensive formations:
 - Attempts at genuine friendship may be misinterpreted
 - Strategic aloofness becomes a prison
 
-#### Characteristic Elven Abilities
+##### Characteristic Elven Abilities
 
 **Archery Excellence**
 
@@ -642,7 +642,7 @@ Elves carefully monitor their environment:
 - Range modifiers as needed
 - Limitations: Only plants/forest (1)
 
-#### Sample Elven Characters
+##### Sample Elven Characters
 
 **Gritty Level: Young Preservation Apprentice (45 CP)**
 - Base Package: 33 CP
@@ -736,12 +736,12 @@ Elves carefully monitor their environment:
 - *Simplified plant adjustment 2d6: ~24 CP*
 - **Total: ~85 CP** (approximately on budget)
 
-### The Halflings
+#### The Halflings
 
 **Public Image**: Simple, jolly folk who love comfort and food
 **Reality**: Class-conscious society with sophisticated social networks
 
-#### Cultural Problems
+##### Cultural Problems
 
 **Problem: "Simple folk" stereotype (5 CP)**
 - Others underestimate your sophistication
@@ -757,7 +757,7 @@ Elves carefully monitor their environment:
 - Communal rights vs. property law
 - Old obligations vs. new economic realities
 
-#### Characteristic Halfling Abilities
+##### Characteristic Halfling Abilities
 
 **Social Navigation**
 
@@ -806,7 +806,7 @@ Hidden sophisticated water management and resource coordination:
 - Operating sophisticated farming systems
 - Often more advanced than appears
 
-#### Sample Halfling Characters
+##### Sample Halfling Characters
 
 **Gritty Level: Young Burrow-Tender (45 CP)**
 - Base Package: 33 CP
@@ -855,12 +855,12 @@ Hidden sophisticated water management and resource coordination:
   - Cost: 24/2.5 = 9.6 ≈ 10 CP
 - **Total: 95 CP** (under budget, could enhance)
 
-### The Humans
+#### The Humans
 
 **Public Image**: Adaptable diplomats who get along with everyone
 **Reality**: Fractured by theological interpretations, each insisting they "simply read the Text"
 
-#### Cultural Problems
+##### Cultural Problems
 
 **Problem: Doctrinal schism separates me from other communities (5 CP)**
 - Your reading of the Text differs from other human groups
@@ -877,7 +877,7 @@ Hidden sophisticated water management and resource coordination:
 - Reputation for adaptability seen as inconsistency
 - Must maintain facade of principled literalism
 
-#### Characteristic Human Abilities
+##### Characteristic Human Abilities
 
 **Textual Interpretation**
 
@@ -910,7 +910,7 @@ Different human communities develop wildly different specializations based on th
 - Others emphasize trade ("obviously the Text supports commerce")
 - Build to match your specific community
 
-#### Sample Human Characters
+##### Sample Human Characters
 
 **Gritty Level: New Light Settlement Trader (45 CP)**
 - Base Package: 33 CP
@@ -961,11 +961,11 @@ Different human communities develop wildly different specializations based on th
   - Cost: 30/1.5 = 20 CP
 - **Total: 99 CP** (close to budget)
 
-## Adventuring Templates
+### Adventuring Templates
 
 These templates can be applied to any species. They represent common adventuring roles in Epiphaneia. Each template includes recommendations for different power levels.
 
-### Warrior (Weapon Master)
+#### Warrior (Weapon Master)
 
 Warriors specialize in combat effectiveness with traditional weapons.
 
@@ -1000,7 +1000,7 @@ Warriors specialize in combat effectiveness with traditional weapons.
 - **Halfling**: Defensive focus, evasion emphasis
 - **Human**: Varies by community's Text interpretation
 
-### Scout/Ranger
+#### Scout/Ranger
 
 Scouts combine perception, stealth, and survival skills.
 
@@ -1044,7 +1044,7 @@ Scouts combine perception, stealth, and survival skills.
 - **Dwarven**: Mountain/underground focus
 - **Human**: Varies by terrain and Text interpretation
 
-### Mage (Arcane Caster)
+#### Mage (Arcane Caster)
 
 Mages use magical powers for offense, utility, and support.
 
@@ -1102,7 +1102,7 @@ Mages use magical powers for offense, utility, and support.
 - **Halfling**: Social magic, misdirection
 - **Human**: Varies by theological tradition
 
-### Healer/Support
+#### Healer/Support
 
 Healers restore allies and provide combat support.
 
@@ -1162,7 +1162,7 @@ Healers restore allies and provide combat support.
 - **Halfling**: Community support, morale effects
 - **Human**: Prayer/Text-based, varies by tradition
 
-### Rogue/Infiltrator
+#### Rogue/Infiltrator
 
 Rogues specialize in stealth, theft, and bypassing security.
 
@@ -1228,7 +1228,7 @@ Rogues specialize in stealth, theft, and bypassing security.
 - **Dwarven**: Underground navigation, stonework
 - **Human**: Urban focus, varies by community
 
-### Diplomat/Face
+#### Diplomat/Face
 
 Diplomats excel at negotiation, persuasion, and social navigation.
 
@@ -1283,9 +1283,9 @@ Diplomats excel at negotiation, persuasion, and social navigation.
 - **Elven**: Maintaining serene facade while negotiating
 - **Dwarven**: Direct speech, formal debate traditions
 
-## Using These Stat Blocks
+### Using These Stat Blocks
 
-### Combining Species and Template
+#### Combining Species and Template
 
 1. **Choose your species** and consider taking at least one cultural Problem
 2. **Select an adventuring template** that fits your concept
@@ -1293,7 +1293,7 @@ Diplomats excel at negotiation, persuasion, and social navigation.
 4. **Add base package** (included in CP totals above)
 5. **Personalize** with unique abilities, additional Problems for more CP, or specific background skills
 
-### Example: Heroic Dwarven Warrior
+#### Example: Heroic Dwarven Warrior
 
 **Total: 70 CP**
 - Base Package: 33 CP
@@ -1303,7 +1303,7 @@ Diplomats excel at negotiation, persuasion, and social navigation.
 - Use Warrior template adjustments: Add 2d6 DEF (6 CP), Background Military Strategy (3 CP)
 - **Total used: 47 CP** (perfect fit)
 
-### Example: Gritty Halfling Rogue
+#### Example: Gritty Halfling Rogue
 
 **Total: 45 CP**
 - Base Package: 33 CP
@@ -1312,7 +1312,7 @@ Diplomats excel at negotiation, persuasion, and social navigation.
 - Use Rogue template: Evasion 2d6 (6), Security 2d6 (6), Background (2), DEF 1d6 (3)
 - **Total used: 17 CP** (perfect fit)
 
-### Example: Epic Elven Preservation Mage
+#### Example: Epic Elven Preservation Mage
 
 **Total: 100 CP**
 - Base Package: 33 CP
@@ -1324,12 +1324,12 @@ Diplomats excel at negotiation, persuasion, and social navigation.
 
 ---
 
-# Monsters of Epiphaneia
+## Monsters of Epiphaneia
 
-## Overview
+### Overview
 While Epiphaneia's peoples maintain their careful facades and hidden depths, other secrets lurk in the world's dark places. Some were discovered by accident, others through hubris or necessity, but all represent natural phenomena that existed long before mortal civilizations encountered them. This guide attempts to catalog the most significant of these entities, both as they are commonly perceived and as they truly exist.
 
-## The Echoes Below
+### The Echoes Below
 
 First documented in the deep mining logs of Mount Kzr, the Echoes Below represent one of the most significant discoveries in recent dwarven history. To common knowledge, they are simply vengeful spirits of the deep, attacking miners who delve too greedily. This perception, while understandable, misses the true wonder and terror of their nature.
 
@@ -1339,7 +1339,7 @@ In combat, Echoes Below distort both space and sound around them. Fighting one f
 
 The dwarves have learned to detect signs of Echo activity before mining into their spaces, but debate continues about whether to attempt communication or seal off these areas entirely. Some scholars believe the Echoes might hold knowledge from the deep past, if only we could learn to perceive time as they do.
 
-## The Seedwalk
+### The Seedwalk
 
 In the depths of the Redcedar Forest, travelers sometimes glimpse beautiful arrangements of flowers and vines that seem to follow their movements. Most assume these are simply another example of elven forest-shaping, but the truth is far stranger. The Seedwalk represents what happens when ordinary forest seeds accidentally absorb the residual magic from centuries of elven preservation efforts.
 
@@ -1349,7 +1349,7 @@ In combat, a Seedwalk transforms the battlefield itself, creating evolving envir
 
 The elves maintain careful watches for signs of Seedwalk activity, though they prefer to redirect travelers rather than admit to the existence of these unintended consequences of their magical practices. Some whisper that the Seedwalk might represent a possible future for the forest itself, though whether this would be evolution or corruption remains hotly debated.
 
-## The Hollow Folk
+### The Hollow Folk
 
 Within halfling communities, parents warn children about meeting their own reflection on a foggy morning, a superstition that masks a stranger truth. The Hollow Folk emerged from an accident with halfling food preservation magic - spaces that became "too well preserved," where time behaves strangely and sometimes generates copies of things caught within.
 
@@ -1359,7 +1359,7 @@ In combat, Hollow Folk flicker between different moments in time, making their m
 
 Halfling communities have developed elaborate social codes around dealing with Hollow Folk manifestations without acknowledging their existence to outsiders. Many of their famous hospitality traditions originated as ways to identify and safely redirect these entities without causing panic.
 
-## The Crossed Lines
+### The Crossed Lines
 
 Where human settlements meet, travelers sometimes encounter strange beasts that seem to shift and change as they move. These entities emerge from places where ley lines intersect, their nature changing based on their position relative to these crossings. Different human communities have built settlements along these lines, each claiming their chosen location was clearly indicated as sacred by the Text.
 
@@ -1369,7 +1369,7 @@ In combat, Crossed Lines phase between different versions of themselves based on
 
 Human communities have developed complex theological frameworks to explain these entities, each interpretation carefully justified through their reading of the Text. Some see them as guardians of sacred boundaries, others as manifestations of divine will, but all carefully avoid acknowledging the simpler truth of their natural origin.
 
-## A Note on Classification
+### A Note on Classification
 
 These entities defy traditional monster classification systems. They are not truly creatures in any conventional sense, but rather phenomena that have developed forms of interaction with the mortal world. Their discovery has forced each culture to confront aspects of reality that don't fit neatly into their preferred explanations, though they maintain their usual practices of hiding such complications from outsiders.
 
@@ -1377,9 +1377,9 @@ Understanding these entities requires looking past both common superstition and 
 
 ---
 
-# Narrative Examples
+## Narrative Examples
 
-## A Matter of Interpretation
+### A Matter of Interpretation
 
 The morning sun struck Mount Kzr at an angle that made the ceremonial carvings around its main entrance seem to dance with light and shadow. Edriel Brightpath squinted up at the majestic sight, then turned to the twenty followers standing behind him. Each wore the distinctive blue-and-white sashes of the Literal Vessel Adherents, their expressions a mixture of anticipation and nervousness.
 
@@ -1567,7 +1567,7 @@ Miriam's expression didn't change, but something like amusement flickered in her
 
 In the Crossroads Vale, such moments of connection across cultural divides were as precious as they were fleeting. The dwarves would continue to present their warrior-craftsman image to the world, the humans would continue to insist they simply read what was plainly written, and life would go on much as it always had – each people seeing others as simple stereotypes, while grappling with complex internal realities that outsiders rarely glimpsed.
 
-## The Watershed Agreement
+### The Watershed Agreement
 
 The morning sun had yet to burn away the mist clinging to the boundary between Whitbarrow Shire and the Redcedar Forest when Rosalind Whitbarrow arrived at the stream bank. In better times, the water flowing down from Mount Kzr would have gurgled pleasantly around her furry feet. Today, only a trickle remained, barely enough to dampen the stones of the streambed.
 
