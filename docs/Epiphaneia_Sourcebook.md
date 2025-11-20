@@ -404,6 +404,926 @@ The success of this arrangement relies on each community's ability to maintain i
 
 ---
 
+# Character Stat Blocks
+
+## Introduction
+
+This chapter provides mechanical stat blocks using the Plasticine system for characters in Epiphaneia. These guidelines help players and Game Masters create characters that fit the world's themes while maintaining balanced gameplay.
+
+The stat blocks are organized into two main sections:
+
+1. **Species Guidance**: Mechanical frameworks for Dwarves, Elves, Halflings, and Humans that reflect both their public stereotypes and hidden complexities
+2. **Adventuring Templates**: Common character archetypes that can be applied to any species
+
+### Power Levels
+
+Epiphaneia campaigns can operate at different power levels depending on the desired tone:
+
+- **Gritty (30-50 CP)**: Street-level heroes, everyday warriors, and skilled professionals
+- **Heroic (50-80 CP)**: Exceptional individuals, veteran adventurers, and renowned specialists
+- **Epic (80-120 CP)**: Legendary heroes, masters of their arts, and world-changing figures
+
+The base package for all Epiphaneian characters includes:
+- 2d6 in all four attributes (ACT, ACC, DEF, PER) [24 CP]
+- Basic movement (1m) with "only on ground" limitation [~0.5 CP]
+- Hand-to-hand attack (Reduce Body by 1) [5 CP]
+- Native language [1 CP]
+- One Background skill at 3d6 [3 CP]
+**Total Base Package: ~33 CP**
+
+This means a 50 CP character has approximately 17 CP to spend on their unique capabilities, while a 100 CP character has 67 CP for specialization.
+
+## Species Stat Blocks
+
+In Epiphaneia, each species maintains carefully cultivated public images while grappling with complex internal realities. These stat blocks reflect both aspects, providing mechanical options that support either stereotype or deeper characterization.
+
+### The Dwarves
+
+**Public Image**: Gruff warriors obsessed with gold, beer, and fighting
+**Reality**: Sophisticated scholars with sacred crafting traditions and universal military service
+
+#### Cultural Problems
+
+All dwarven characters should consider taking at least one of these problems:
+
+**Problem: Others see me as a simple warrior-craftsman (5 CP)**
+- People assume you're interested only in gold, fighting, and drinking
+- Your scholarly achievements and theological knowledge are dismissed
+- Common frequency in mixed-race settings
+
+**Problem: Torn between mountain traditions and diaspora adaptation (5 CP, can be 10 CP if severe)**
+- Different dwarven communities have varying interpretations of tradition
+- Your choices may be questioned by more conservative or progressive kin
+- Mild by default, severe if you're actively caught between factions
+
+**Problem: Sacred crafting obligations (5 CP)**
+- Certain ceremonies require specific brewing or crafting traditions
+- May need to interrupt adventures for religious observances
+- Others may not understand the spiritual significance of your work
+
+#### Characteristic Dwarven Abilities
+
+These powers and skills reflect both the stereotype and the reality:
+
+**Universal Military Training (Variable Cost)**
+
+All dwarves receive military training. This can be represented as:
+
+*Basic Version (30 CP):*
+- Reduce Body: 3d6 (45 CP raw)
+- Limitation: Requires weapon (axe/hammer) (0.5)
+- Cost: 45/1.5 = 30 CP
+
+*Citizen-Soldier Version (38 CP):*
+- Reduce Body: 3d6 (45 CP raw)
+- System 4d6 (12 CP) - distribute among ACC, DEF, ACT
+- Total: 57 CP raw
+- Limitation: Requires weapon (axe/hammer) (0.5)
+- Cost: 57/1.5 = 38 CP
+
+**Sacred Brewing Knowledge**
+
+*Background: Brewing (Sacred Traditions) - 3d6 (3 CP)*
+- Includes technical brewing skill
+- Includes knowledge of ceremonial requirements
+- Includes theological understanding of transformation
+
+**Dugri Communication**
+
+Dwarven direct speech is often misunderstood as rudeness:
+
+*Background: Rhetoric/Debate - 3d6+ (3-9 CP)*
+- Specificity bonuses for formal scholarly debate
+- May suffer penalties when diplomacy requires indirection
+
+**Deep Archive Scholarship**
+
+Many dwarves are well-versed in historical and religious texts:
+
+*Background: History/Theology - 3d6+ (3-9 CP)*
+- Can specify focus: Ancient texts, Guild traditions, Religious commentary
+
+**Defensive Resilience**
+
+Dwarves train extensively in defensive formations:
+
+*Improved Defense (Variable)*
+- 1d6 Defense bonus: 3 CP
+- Limitation: Only when fighting alongside other dwarves (0.5)
+- Cost: 3/1.5 = 2 CP per die
+
+#### Sample Dwarven Characters
+
+**Gritty Level: Diaspora Merchant Guard (45 CP)**
+- Base Package: 33 CP
+- Remaining: 12 CP
+- Problems: "Others see me as simple warrior" (5 CP) = 17 CP available
+- Universal Military Training (Basic): 30 CP... *[exceeds budget - using simplified version]*
+
+*Alternative: Simplified Merchant Guard*
+- Reduce Body 2d6, requires axe (0.5): 20 CP
+- Background: Trading practices 3d6: 3 CP
+- Background: Brewing (sacred) 2d6: 2 CP
+- Improved PER 1d6: 3 CP
+- **Total: 28 CP spent beyond base**
+
+**Heroic Level: Mountain Hold Brewmaster (70 CP)**
+- Base Package: 33 CP
+- Problems: "Sacred obligations" (5 CP) + "Mountain vs Diaspora tension" (5 CP) = 10 CP
+- Available: 37 CP + 10 = 47 CP
+- Citizen-Soldier combat training: 38 CP
+- Background: Brewing (Sacred Traditions) 4d6: 4 CP
+- Background: Theology 3d6: 3 CP
+- Improved PER 1d6: 3 CP
+- **Total: 48 CP** (slightly over, reduce PER or Theology by 1 pip)
+
+**Epic Level: Guild Master and Innovation Council Member (100 CP)**
+- Base Package: 33 CP
+- Problems: "Mountain vs Diaspora" (severe, 10 CP) + "Public stereotype" (5 CP) = 15 CP
+- Available: 67 + 15 = 82 CP
+- Citizen-Soldier (Advanced):
+  - Reduce Body 4d6 (60 CP raw)
+  - System 6d6 (18 CP)
+  - Total: 78 CP raw
+  - Limitation: Requires weapon (0.5)
+  - Cost: 52 CP
+- Background: Brewing (Sacred) 5d6: 5 CP
+- Background: Theology (Innovation) 4d6: 4 CP
+- Background: Debate (Formal) 4d6: 4 CP
+- Improved ACT 2d6: 6 CP
+- Improved PER 2d6: 6 CP
+- Detect: Craftsmanship quality 2d6, touch range: 6 CP
+- **Total: 83 CP** (slightly over, adjust as needed)
+
+### The Elves
+
+**Public Image**: Mystical forest-dwellers in perfect harmony with nature
+**Reality**: Environmentally stressed society using sophisticated magical technology
+
+#### Cultural Problems
+
+**Problem: Must maintain serene facade while forest dies (5-10 CP)**
+- Cannot reveal true extent of environmental crisis
+- Sophisticated magical interventions must appear natural
+- Severe (10 CP) if character is directly responsible for preservation magic
+
+**Problem: Conflicting views on magical intervention (5 CP)**
+- Elven society debates extent of acceptable magical technology
+- Your position may put you at odds with other elves
+- Outsiders must never see these divisions
+
+**Problem: Aloof stereotype limits genuine connection (5 CP)**
+- Others expect mysterious, detached behavior
+- Attempts at genuine friendship may be misinterpreted
+- Strategic aloofness becomes a prison
+
+#### Characteristic Elven Abilities
+
+**Archery Excellence**
+
+Elves are renowned archers, though this is trained skill, not natural talent:
+
+*Basic Archery (90 CP):*
+- Reduce Body 2d6 (30 CP raw)
+- Ranged 30m (×6 multiplier): 180 CP raw
+- Limitations: Requires bow (0.5), requires two hands (0.5)
+- Cost: 180/2 = 90 CP
+
+*Forest Archer - Heroic (96 CP):*
+- Reduce Body 2d6 (30 CP raw)
+- Ranged 30m: 180 CP raw
+- System 4d6: 12 CP
+- Total: 192 CP raw
+- Limitations: Requires bow (0.5), requires two hands (0.5)
+- Cost: 192/2 = 96 CP
+
+**Preservation Magic**
+
+Elven "nature magic" is often sophisticated environmental engineering:
+
+*Hidden Grove Preservation (Variable):*
+- Improve attribute: variable
+- Constant modifier (×2)
+- Limitations: Only on plants (1), only in specific grove (1), requires daily ritual (0.5)
+- Very cheap for powerful ongoing effects
+
+*Example: Basic Grove (10 CP for significant effect):*
+- Improve plant resilience 3d6 (45 CP raw)
+- Constant (×2): 90 CP raw
+- Limitations: Only plants (1), only home grove (1), requires daily ritual (0.5)
+- Cost: 90/3.5 = ~26 CP
+- ... *[too expensive for basic, recalculating]*
+
+*Adjusted Basic Grove Protection (8 CP):*
+- Improve plant resilience 2d6 (30 CP raw)
+- Constant: 60 CP raw
+- Limitations: Only plants (1), only home grove (1), daily ritual (0.5), cannot work on diseased plants (0.5)
+- Cost: 60/4 = 15 CP... *[still expensive]*
+
+*Simplified:*
+- Background: Environmental Magic (Preservation) - represents knowledge and minor effects
+- For combat-relevant effects, buy as standard powers
+
+**Magical Technology Disguise**
+
+*Background: Magical Engineering - 3d6+ (3+ CP)*
+- Create magical effects that appear natural
+- Understand and maintain preservation systems
+- Hide technological complexity
+
+**Enhanced Perception**
+
+Elves carefully monitor their environment:
+
+*Improved PER - variable cost*
+- Often with limitation: "Only in forest" (0.5) for 33% cost reduction
+
+*Detect: Environmental health - 2d6+ (variable)*
+- Range modifiers as needed
+- Limitations: Only plants/forest (1)
+
+#### Sample Elven Characters
+
+**Gritty Level: Young Preservation Apprentice (45 CP)**
+- Base Package: 33 CP
+- Problems: "Must maintain facade" (5 CP) = 17 CP available
+- Improved PER 2d6: 6 CP
+- Background: Environmental Magic 3d6: 3 CP
+- Basic Archery (simplified - 2d6, ranged 20m):
+  - 30 CP raw × 4 (range) = 120 CP
+  - Limitations: bow (0.5), two hands (0.5), only for defense (0.5)
+  - Cost: 120/2.5 = 48 CP *[too expensive]*
+
+*Revised Gritty Archer:*
+- Reduce Body 1d6+1, ranged 15m:
+  - 20 CP × 3.9 (range) = 78 CP
+  - Limitations: bow (0.5), two hands (0.5)
+  - Cost: 78/2 = 39 CP *[still too high for gritty]*
+
+*Simplified Gritty Elf:*
+- Background: Archery 3d6: 3 CP
+- Background: Environmental Magic 3d6: 3 CP
+- Background: Preservation Traditions 2d6: 2 CP
+- Improved PER 2d6: 6 CP
+- Detect: Plant health 2d6, touch: 6 CP
+  - Limitation: Only plants (1)
+  - Cost: 6/2 = 3 CP
+- **Total: 17 CP**
+
+**Heroic Level: Preservation Specialist (70 CP)**
+- Base Package: 33 CP
+- Problems: "Maintain facade" (10 CP, severe) = 47 CP available
+- Forest Archer: 96 CP *[exceeds total budget]*
+
+*Revised Heroic - Magic Focus:*
+- Archery 4d6 (skill, not power): 12 CP
+- Reduce Body 2d6, ranged 30m:
+  - 30 CP × 6 = 180 CP raw
+  - Limitations: bow (0.5), two hands (0.5), only when defending forest (0.5)
+  - Cost: 180/2.5 = 72 CP *[still too high]*
+
+*Practical Heroic Elf (using Background skills primarily):*
+- Background: Archery (Forest Defense) 5d6: 5 CP
+- Background: Preservation Magic 5d6: 5 CP
+- Improved PER 3d6: 9 CP
+- Improved ACT 2d6: 6 CP
+- Detect: Environmental health 3d6, 10m range:
+  - 9 CP × 4 = 36 CP
+  - Limitations: Only plants/forest (1), requires concentration (0.5)
+  - Cost: 36/2.5 = 14.4 ≈ 14 CP
+- Adjust (Improve): Plant vitality 2d6:
+  - 30 CP (improved)
+  - Limitations: Only plants (1), touch range (0), requires ritual (0.5), slow (0.5)
+  - Cost: 30/3 = 10 CP
+- **Total: 49 CP** (close to budget)
+
+**Epic Level: Elder Preservation Master (100 CP)**
+- Base Package: 33 CP
+- Problems: "Facade" (severe 10 CP) + "Intervention debates" (5 CP) = 15 CP
+- Available: 67 + 15 = 82 CP
+- Background: Preservation Magic 6d6: 6 CP
+- Background: Magical Engineering 5d6: 5 CP
+- Background: Political Navigation 4d6: 4 CP
+- Improved PER 4d6: 12 CP
+- Improved ACT 3d6: 9 CP
+- Combat Archery 2d6, ranged 30m:
+  - 30 × 6 = 180 CP raw
+  - System 4d6: 12 CP
+  - Total: 192 CP raw
+  - Limitations: bow (0.5), two hands (0.5)
+  - Cost: 192/2 = 96 CP *[exceeds budget]*
+- *Simplified: Background Archery 5d6: 5 CP*
+- Detect: Environmental health 4d6, 30m, analyze:
+  - 12 CP × 6 (range) × 2 (analyze) = 144 CP
+  - Limitations: Only nature (1), concentration (0.5)
+  - Cost: 144/2.5 = 57.6 ≈ 58 CP *[exceeds budget]*
+
+*Practical Epic Elf:*
+- Background: Preservation Magic 6d6: 6 CP
+- Background: Archery 5d6: 5 CP
+- Background: Magical Engineering 5d6: 5 CP
+- Improved PER 4d6: 12 CP
+- Improved ACT 3d6: 9 CP
+- Improved DEF 2d6: 6 CP
+- Detect: Environmental health 3d6, 20m:
+  - 9 × 5 = 45 CP
+  - Limitations: Only nature (1), concentration (0.5)
+  - Cost: 45/2.5 = 18 CP
+- Adjust: Plant vitality 3d6, touch:
+  - 45 CP (improve modifier ×2): 90 CP
+  - Limitations: Only plants (1), requires ritual (0.5), touch only (0)
+  - Cost: 90/2.5 = 36 CP *[still expensive]*
+- *Simplified plant adjustment 2d6: ~24 CP*
+- **Total: ~85 CP** (approximately on budget)
+
+### The Halflings
+
+**Public Image**: Simple, jolly folk who love comfort and food
+**Reality**: Class-conscious society with sophisticated social networks
+
+#### Cultural Problems
+
+**Problem: "Simple folk" stereotype (5 CP)**
+- Others underestimate your sophistication
+- Your complex social understanding must remain hidden
+- Can be useful but also limiting
+
+**Problem: Class obligations and tensions (5-10 CP)**
+- Water rights, land access, and social hierarchies create pressure
+- Must maintain appearance of universal contentment
+- Severe (10 CP) if from landless class or facing eviction
+
+**Problem: Caught between tradition and modernization (5 CP)**
+- Communal rights vs. property law
+- Old obligations vs. new economic realities
+
+#### Characteristic Halfling Abilities
+
+**Social Navigation**
+
+Halflings excel at reading and managing complex social situations:
+
+*Background: Social Networks (Shire Politics) - 3d6+ (3+ CP)*
+- Understanding class dynamics
+- Reading unstated social codes
+- Knowing who owes whom
+
+*Communication: Social Manipulation - 3d6+ (9+ CP)*
+- Opposed skill for convincing, persuading
+- Specificity: "Appearing harmless" for bonuses
+
+**Hidden Coordination**
+
+Halfling communities organize through seemingly casual interactions:
+
+*Background: Community Organization - 2d6+ (2+ CP)*
+- Coordinating action through social visits
+- Understanding signal systems (bells, flowers, etc.)
+
+**Stealth and Evasion**
+
+Halflings can leverage their "harmless" image:
+
+*Reduce PER (Stealth/Misdirection):*
+- Reduce PER 2d6+ (30+ CP raw)
+- Limitations: Only to avoid notice (1), only when appearing harmless (0.5)
+- Cost reduction: 2.5×
+- 2d6 version: 30/2.5 = 12 CP
+
+*Evasion Skill - 3d6+ (9+ CP)*
+- Opposed against Seeking
+- Works well when underestimated
+
+**Agricultural/Technical Expertise**
+
+Hidden sophisticated water management and resource coordination:
+
+*Background: Water Management - 3d6+ (3+ CP)*
+- Understanding irrigation systems
+- Knowing usage rights and flows
+
+*Systems: Agricultural Technology - 3d6+ (9+ CP)*
+- Operating sophisticated farming systems
+- Often more advanced than appears
+
+#### Sample Halfling Characters
+
+**Gritty Level: Young Burrow-Tender (45 CP)**
+- Base Package: 33 CP
+- Problems: "Simple folk stereotype" (5 CP) = 17 CP available
+- Background: Social Networks 3d6: 3 CP
+- Background: Agricultural Systems 3d6: 3 CP
+- Communication: Appearing Harmless 2d6: 6 CP
+- Improved PER 1d6: 3 CP
+- Evasion 1d6: 3 CP
+- **Total: 18 CP** (1 over, reduce something by 1 pip)
+
+**Heroic Level: Water Rights Organizer (70 CP)**
+- Base Package: 33 CP
+- Problems: "Class tensions" (10 CP) + "Stereotype" (5 CP) = 15 CP
+- Available: 37 + 15 = 52 CP
+- Background: Social Networks (Shire) 5d6: 5 CP
+- Background: Water Management 4d6: 4 CP
+- Background: Community Organization 4d6: 4 CP
+- Communication: Persuasion (Appearing Simple) 4d6: 12 CP
+- Improved PER 3d6: 9 CP
+- Evasion 3d6: 9 CP
+- Reduce PER (Stealth) 2d6:
+  - Limitations: Only to avoid notice (1), when appearing harmless (0.5)
+  - Cost: 30/2.5 = 12 CP
+- **Total: 55 CP** (3 over budget, minor adjustment needed)
+
+**Epic Level: Shire Power Broker (100 CP)**
+- Base Package: 33 CP
+- Problems: "Class tensions" (severe 10 CP) + "Tradition vs. modern" (5 CP) + "Stereotype" (5 CP) = 20 CP
+- Available: 67 + 20 = 87 CP
+- Background: Social Networks 6d6: 6 CP
+- Background: Water Management 5d6: 5 CP
+- Background: Community Organization 5d6: 5 CP
+- Background: Agricultural Economics 4d6: 4 CP
+- Communication: Persuasion 5d6: 15 CP
+- Seeking: Social Intelligence 4d6: 12 CP
+- Evasion: Social 4d6: 12 CP
+- Improved PER 4d6: 12 CP
+- Improved DEF 2d6: 6 CP
+- Reduce PER (Social Stealth) 3d6:
+  - Limitations: Only to avoid notice (1), appearing harmless (0.5)
+  - Cost: 45/2.5 = 18 CP
+- Detect: Social Dynamics 2d6, 10m:
+  - 6 × 4 = 24 CP
+  - Limitations: Only social cues (1), concentration (0.5)
+  - Cost: 24/2.5 = 9.6 ≈ 10 CP
+- **Total: 95 CP** (under budget, could enhance)
+
+### The Humans
+
+**Public Image**: Adaptable diplomats who get along with everyone
+**Reality**: Fractured by theological interpretations, each insisting they "simply read the Text"
+
+#### Cultural Problems
+
+**Problem: Doctrinal schism separates me from other communities (5 CP)**
+- Your reading of the Text differs from other human groups
+- Marriage, trade, cooperation require complex negotiation
+- Common in mixed human settings
+
+**Problem: Must justify everything through Text interpretation (5 CP)**
+- Cannot admit to interpretation - must claim "plain reading"
+- Limits flexibility in novel situations
+- Creates cognitive dissonance
+
+**Problem: Outsiders see us as hypocritical (5 CP)**
+- Other races notice humans' contradictory "plain readings"
+- Reputation for adaptability seen as inconsistency
+- Must maintain facade of principled literalism
+
+#### Characteristic Human Abilities
+
+**Textual Interpretation**
+
+All human communities claim to "simply read" the Text:
+
+*Background: Textual Study (Specific Community Reading) - 3d6+ (3+ CP)*
+- Knowledge of your community's interpretation
+- Can cite passages supporting positions
+- Specificity matters: "New Light Settlement reading" vs. "General human theology"
+
+**Diplomatic Navigation**
+
+Humans must navigate complex inter-community relations:
+
+*Communication: Inter-Racial Diplomacy - 3d6+ (9+ CP)*
+- Your community's "plain reading" on dealing with non-humans
+- Often more flexible than it appears
+
+*Background: Theological Justification - 3d6+ (3+ CP)*
+- Finding Text passages supporting desired actions
+- Making complex interpretations sound obvious
+
+**Varied Approaches**
+
+Different human communities develop wildly different specializations based on their Text reading:
+
+*This is represented by humans having NO mandatory abilities*
+- Some communities emphasize martial training ("Text clearly mandates")
+- Others emphasize scholarship ("plain reading requires study")
+- Others emphasize trade ("obviously the Text supports commerce")
+- Build to match your specific community
+
+#### Sample Human Characters
+
+**Gritty Level: New Light Settlement Trader (45 CP)**
+- Base Package: 33 CP
+- Problems: "Doctrinal schism" (5 CP) = 17 CP available
+- Background: Textual Study (New Light) 3d6: 3 CP
+- Background: Trade Practices 3d6: 3 CP
+- Communication: Inter-racial diplomacy 2d6: 6 CP
+- Improved PER 1d6: 3 CP
+- Reduce Body 1d6 (unarmed self-defense):
+  - 15 CP raw
+  - Limitation: Only defensive situations (0.5)
+  - Cost: 15/1.5 = 10 CP
+- **Total: 25 CP** (under budget - could add skills)
+
+**Heroic Level: Illuminated Textual Literalist Scholar (70 CP)**
+- Base Package: 33 CP
+- Problems: "Doctrinal schism" (5 CP) + "Must justify through Text" (5 CP) = 10 CP
+- Available: 37 + 10 = 47 CP
+- Background: Textual Study (Illuminated Literalist) 5d6: 5 CP
+- Background: Theological Justification 4d6: 4 CP
+- Background: Diplomatic History 4d6: 4 CP
+- Communication: Persuasion (Textual) 4d6: 12 CP
+- Communication: Inter-racial 3d6: 9 CP
+- Improved PER 3d6: 9 CP
+- Improved ACT 1d6: 3 CP
+- Systems: Commercial Operations 2d6: 6 CP
+- **Total: 52 CP** (5 over, minor adjustment)
+
+**Epic Level: Elder Who Bridges Communities (100 CP)**
+- Base Package: 33 CP
+- Problems: "Schism" (5 CP) + "Text justification" (5 CP) + "Seen as hypocritical" (5 CP) = 15 CP
+- Available: 67 + 15 = 82 CP
+- Background: Textual Study 6d6: 6 CP
+- Background: Comparative Theology 5d6: 5 CP
+- Background: Diplomatic History 5d6: 5 CP
+- Background: Multiple Community Traditions 4d6: 4 CP
+- Communication: Inter-racial Diplomacy 5d6: 15 CP
+- Communication: Human Factional Diplomacy 5d6: 15 CP
+- Improved PER 4d6: 12 CP
+- Improved ACT 2d6: 6 CP
+- Detect: Theological Inconsistencies 3d6, 5m:
+  - 9 × 3 = 27 CP
+  - Limitations: Only textual/theological (1), concentration (0.5)
+  - Cost: 27/2.5 = 10.8 ≈ 11 CP
+- Reduce Body 2d6 (self-defense):
+  - 30 CP
+  - Limitation: Only when defending self/others (0.5)
+  - Cost: 30/1.5 = 20 CP
+- **Total: 99 CP** (close to budget)
+
+## Adventuring Templates
+
+These templates can be applied to any species. They represent common adventuring roles in Epiphaneia. Each template includes recommendations for different power levels.
+
+### Warrior (Weapon Master)
+
+Warriors specialize in combat effectiveness with traditional weapons.
+
+**Core Concept**: Skilled combatant with weapon expertise
+
+**Gritty Level (45 CP total, ~12-17 CP for template)**
+- Reduce Body 2d6, requires weapon: 20 CP
+- Improved DEF 1d6: 3 CP
+- Background: Military Training 2d6: 2 CP
+
+**Heroic Level (70 CP total, ~37-47 CP for template)**
+- Reduce Body 3d6, requires weapon: 30 CP
+- System 4d6 (distribute among ACC, DEF, ACT): 12 CP
+- Total: 42 CP raw / 1.5 (weapon limitation) = 28 CP
+- Improved DEF 2d6: 6 CP
+- Background: Military Strategy 3d6: 3 CP
+- **Total: 37 CP**
+
+**Epic Level (100 CP total, ~67-82 CP for template)**
+- Reduce Body 4d6, requires weapon: 60 CP
+- System 6d6: 18 CP
+- Total: 78 CP raw / 1.5 = 52 CP
+- Improved DEF 3d6: 9 CP
+- Improved ACT 2d6: 6 CP
+- Background: Military Strategy 4d6: 4 CP
+- Background: Weapon History/Lore 3d6: 3 CP
+- **Total: 74 CP**
+
+**Species Variations:**
+- **Dwarven**: Axe/hammer focus, often combined with crafting background
+- **Elven**: Bow specialization (more expensive due to range)
+- **Halfling**: Defensive focus, evasion emphasis
+- **Human**: Varies by community's Text interpretation
+
+### Scout/Ranger
+
+Scouts combine perception, stealth, and survival skills.
+
+**Core Concept**: Wilderness expert with tracking and evasion abilities
+
+**Gritty Level (~12-17 CP)**
+- Improved PER 2d6: 6 CP
+- Evasion 2d6: 6 CP
+- Background: Wilderness Survival 2d6: 2 CP
+- Seeking 1d6: 3 CP
+
+**Heroic Level (~37-47 CP)**
+- Improved PER 3d6: 9 CP
+- Evasion 3d6: 9 CP
+- Seeking 3d6: 9 CP
+- Background: Wilderness Survival 4d6: 4 CP
+- Background: Tracking 3d6: 3 CP
+- Reduce PER (Stealth) 2d6:
+  - Limitations: Only to avoid notice (1)
+  - Cost: 30/2 = 15 CP
+- **Total: 49 CP** (adjust as needed)
+
+**Epic Level (~67-82 CP)**
+- Improved PER 5d6: 15 CP
+- Evasion 5d6: 15 CP
+- Seeking 5d6: 15 CP
+- Background: Wilderness 5d6: 5 CP
+- Background: Tracking 4d6: 4 CP
+- Reduce PER (Stealth) 3d6:
+  - Limitations: Only to avoid notice (1)
+  - Cost: 45/2 = 22.5 ≈ 23 CP
+- Detect: Danger/Ambush 2d6, 10m:
+  - 6 × 4 = 24 CP
+  - Limitations: Only danger (1), concentration (0.5)
+  - Cost: 24/2.5 = 9.6 ≈ 10 CP
+- **Total: 87 CP** (high end of range)
+
+**Species Variations:**
+- **Elven**: Forest specialization, environmental magic
+- **Halfling**: Social evasion, appearing harmless
+- **Dwarven**: Mountain/underground focus
+- **Human**: Varies by terrain and Text interpretation
+
+### Mage (Arcane Caster)
+
+Mages use magical powers for offense, utility, and support.
+
+**Core Concept**: Magical specialist with versatile spellcasting
+
+**Gritty Level (~12-17 CP)**
+- Reduce Body 1d6+1, ranged 10m (fire blast):
+  - 20 CP × 4 = 80 CP raw
+  - Limitations: gestures (0.5), verbal (0.5), concentration (0.5), skill roll (0.5), cooldown (1.0)
+  - Cost: 80/4 = 20 CP *[too high]*
+
+*Revised Gritty Mage:*
+- Background: Magical Theory 3d6: 3 CP
+- Background: Spellcraft 3d6: 3 CP
+- Reduce Body 1d6, ranged 5m:
+  - 15 × 3 = 45 CP
+  - Limitations: gestures (0.5), verbal (0.5), concentration (0.5), cooldown (1.0)
+  - Cost: 45/3.5 = 12.9 ≈ 13 CP
+- **Total: 19 CP** (over budget for gritty - reduce range or damage)
+
+**Heroic Level (~37-47 CP)**
+- Background: Magical Theory 4d6: 4 CP
+- Background: Spellcraft 4d6: 4 CP
+- Reduce Body 2d6, ranged 10m, AoE 3m:
+  - 30 × 4 (range) × 2 (AoE) = 240 CP
+  - Limitations: gestures (0.5), verbal (0.5), concentration (0.5), skill roll (0.5), cooldown (1.0)
+  - Cost: 240/4 = 60 CP *[exceeds budget]*
+
+*Practical Heroic Mage (using Variants):*
+- Primary: Reduce Body 2d6, ranged 10m:
+  - 30 × 4 = 120 CP
+  - Limitations: gestures (0.5), verbal (0.5), concentration (0.5), cooldown (1.0)
+  - Cost: 120/3.5 = 34.3 ≈ 34 CP
+- Variant 1: AoE version (same cost): 10% = 3.4 ≈ 3 CP
+- Variant 2: Defensive shield: 3 CP
+- Background: Magical Theory 4d6: 4 CP
+- Improved PER 1d6: 3 CP
+- **Total: 47 CP**
+
+**Epic Level (~67-82 CP)**
+- Background: Magical Theory 5d6: 5 CP
+- Background: Multiple Schools 4d6: 4 CP
+- Reduce Body 3d6, ranged 15m:
+  - 45 × 4.9 = 220 CP
+  - Limitations: gestures (0.5), verbal (0.5), concentration (0.5), cooldown (1.0)
+  - Cost: 220/3.5 = 62.9 ≈ 63 CP
+- Variant: AoE version: 10% = 6.3 ≈ 6 CP
+- Variant: Shield: 6 CP
+- Improved ACT 1d6: 3 CP
+- **Total: 87 CP** (high end)
+
+**Species Variations:**
+- **Elven**: Nature/preservation magic, environmental focus
+- **Dwarven**: Craft-based magic, transformation themes
+- **Halfling**: Social magic, misdirection
+- **Human**: Varies by theological tradition
+
+### Healer/Support
+
+Healers restore allies and provide combat support.
+
+**Core Concept**: Support specialist with healing and buffs
+
+**Gritty Level (~12-17 CP)**
+- Improve Body 2d6, touch:
+  - 30 CP (improved)
+  - Limitations: gestures (0.5), verbal (0.5), concentration (0.5), cooldown (1.0)
+  - Cost: 30/3.5 = 8.6 ≈ 9 CP
+- Background: Healing Traditions 3d6: 3 CP
+- Improved PER 1d6: 3 CP
+- **Total: 15 CP**
+
+**Heroic Level (~37-47 CP)**
+- Improve Body 3d6, touch:
+  - 45 CP
+  - Limitations: gestures (0.5), verbal (0.5), concentration (0.5), cooldown (1.0)
+  - Cost: 45/3.5 = 12.9 ≈ 13 CP
+- Improve ACC/DEF 2d6, AoE 3m (inspiration):
+  - 12 × 2 (AoE) = 24 CP
+  - Limitations: verbal (0.5), concentration (0.5), cannot self (0.5)
+  - Cost: 24/2.5 = 9.6 ≈ 10 CP
+- Background: Healing Arts 4d6: 4 CP
+- Background: Support Magic 3d6: 3 CP
+- Improved PER 2d6: 6 CP
+- Detect: Injuries/Ailments 2d6, 5m:
+  - 6 × 3 = 18 CP
+  - Limitations: Only injuries (1), concentration (0.5)
+  - Cost: 18/2.5 = 7.2 ≈ 7 CP
+- **Total: 43 CP**
+
+**Epic Level (~67-82 CP)**
+- Improve Body 4d6, touch:
+  - 60 CP
+  - Limitations: gestures (0.5), verbal (0.5), concentration (0.5), cooldown (1.0)
+  - Cost: 60/3.5 = 17.1 ≈ 17 CP
+- Variant: Ranged healing 5m: 10% = 2 CP
+- Improve ACC/DEF 3d6, AoE 5m:
+  - 18 × 2.3 = 41.4 ≈ 41 CP
+  - Limitations: verbal (0.5), concentration (0.5), cannot self (0.5)
+  - Cost: 41/2.5 = 16.4 ≈ 16 CP
+- Variant: Offensive buff (ACC only, higher): 2 CP
+- Background: Healing Arts 5d6: 5 CP
+- Background: Support Magic 4d6: 4 CP
+- Improved PER 3d6: 9 CP
+- Improved ACT 2d6: 6 CP
+- Detect: Ailments 3d6, 10m, analyze:
+  - 9 × 4 × 2 = 72 CP
+  - Limitations: Only ailments (1), concentration (0.5)
+  - Cost: 72/2.5 = 28.8 ≈ 29 CP
+- **Total: 90 CP** (slightly over - adjust)
+
+**Species Variations:**
+- **Elven**: Natural healing, environmental restoration
+- **Dwarven**: Ritual healing, transformation-based
+- **Halfling**: Community support, morale effects
+- **Human**: Prayer/Text-based, varies by tradition
+
+### Rogue/Infiltrator
+
+Rogues specialize in stealth, theft, and bypassing security.
+
+**Core Concept**: Stealth and intrusion specialist
+
+**Gritty Level (~12-17 CP)**
+- Evasion 3d6: 9 CP
+- Security/Hacking 2d6: 6 CP
+- Reduce PER (Stealth) 1d6:
+  - Limitations: Only to avoid notice (1)
+  - Cost: 15/2 = 7.5 ≈ 8 CP
+- **Total: 23 CP** *[too high for gritty]*
+
+*Revised Gritty Rogue:*
+- Evasion 2d6: 6 CP
+- Security/Hacking 2d6: 6 CP
+- Background: Urban Survival 2d6: 2 CP
+- Improved DEF 1d6: 3 CP
+- **Total: 17 CP**
+
+**Heroic Level (~37-47 CP)**
+- Evasion 4d6: 12 CP
+- Security/Hacking (Locks) 4d6: 12 CP
+- Background: Urban/Dungeon Navigation 3d6: 3 CP
+- Improved PER 2d6: 6 CP
+- Improved DEF 2d6: 6 CP
+- Reduce PER (Stealth) 2d6:
+  - Limitations: Only to avoid notice (1)
+  - Cost: 30/2 = 15 CP
+- **Total: 54 CP** *[over budget]*
+
+*Adjusted Heroic Rogue:*
+- Evasion 3d6: 9 CP
+- Security/Hacking 4d6: 12 CP
+- Background: Urban Navigation 3d6: 3 CP
+- Improved PER 2d6: 6 CP
+- Improved DEF 1d6: 3 CP
+- Reduce PER (Stealth) 2d6:
+  - Limitations: Only to avoid notice (1)
+  - Cost: 15 CP
+- **Total: 48 CP** (close to budget)
+
+**Epic Level (~67-82 CP)**
+- Evasion 5d6: 15 CP
+- Security/Hacking 5d6: 15 CP
+- Background: Master Thief Techniques 5d6: 5 CP
+- Background: Urban Legend 4d6: 4 CP
+- Improved PER 4d6: 12 CP
+- Improved DEF 3d6: 9 CP
+- Improved ACT 2d6: 6 CP
+- Reduce PER (Stealth) 3d6:
+  - Limitations: Only to avoid notice (1)
+  - Cost: 45/2 = 22.5 ≈ 23 CP
+- Detect: Security Systems 2d6, 5m:
+  - 6 × 3 = 18 CP
+  - Limitations: Only security (1), concentration (0.5)
+  - Cost: 18/2.5 = 7.2 ≈ 7 CP
+- **Total: 96 CP** (high end)
+
+**Species Variations:**
+- **Halfling**: Social infiltration, appearing harmless
+- **Elven**: Forest stealth, magical misdirection
+- **Dwarven**: Underground navigation, stonework
+- **Human**: Urban focus, varies by community
+
+### Diplomat/Face
+
+Diplomats excel at negotiation, persuasion, and social navigation.
+
+**Core Concept**: Social specialist, negotiator, and investigator
+
+**Gritty Level (~12-17 CP)**
+- Communication: Diplomacy 3d6: 9 CP
+- Background: Local Politics 3d6: 3 CP
+- Improved PER 1d6: 3 CP
+- **Total: 15 CP**
+
+**Heroic Level (~37-47 CP)**
+- Communication: Diplomacy 4d6: 12 CP
+- Communication: Persuasion 4d6: 12 CP
+- Background: Regional Politics 4d6: 4 CP
+- Background: Cultural Traditions 4d6: 4 CP
+- Improved PER 3d6: 9 CP
+- Detect: Social Dynamics 2d6, 5m:
+  - 6 × 3 = 18 CP
+  - Limitations: Only social (1), concentration (0.5)
+  - Cost: 18/2.5 = 7.2 ≈ 7 CP
+- **Total: 48 CP** (slightly over)
+
+**Epic Level (~67-82 CP)**
+- Communication: Master Diplomacy 5d6: 15 CP
+- Communication: Persuasion 5d6: 15 CP
+- Background: International Politics 5d6: 5 CP
+- Background: Multiple Cultural Traditions 5d6: 5 CP
+- Background: Historical Precedents 4d6: 4 CP
+- Improved PER 4d6: 12 CP
+- Improved ACT 2d6: 6 CP
+- Detect: Social Dynamics 3d6, 10m, analyze:
+  - 9 × 4 × 2 = 72 CP
+  - Limitations: Only social (1), concentration (0.5)
+  - Cost: 72/2.5 = 28.8 ≈ 29 CP
+- Reduce PER (Social Stealth) 2d6:
+  - Limitations: Only social situations (1), must appear harmless (0.5)
+  - Cost: 30/2.5 = 12 CP
+- **Total: 103 CP** (over - reduce something)
+
+*Adjusted Epic Diplomat:*
+- Same as above but reduce analyze Detect to simple detection
+- Detect: Social Dynamics 3d6, 10m:
+  - 9 × 4 = 36 CP
+  - Limitations: Only social (1), concentration (0.5)
+  - Cost: 36/2.5 = 14.4 ≈ 14 CP
+- **New Total: 88 CP** (high but in range)
+
+**Species Variations:**
+- **Human**: Text-based justifications, theological diplomacy
+- **Halfling**: Appearing simple while manipulating
+- **Elven**: Maintaining serene facade while negotiating
+- **Dwarven**: Direct speech, formal debate traditions
+
+## Using These Stat Blocks
+
+### Combining Species and Template
+
+1. **Choose your species** and consider taking at least one cultural Problem
+2. **Select an adventuring template** that fits your concept
+3. **Adjust for power level** (Gritty 45 CP, Heroic 70 CP, Epic 100 CP)
+4. **Add base package** (included in CP totals above)
+5. **Personalize** with unique abilities, additional Problems for more CP, or specific background skills
+
+### Example: Heroic Dwarven Warrior
+
+**Total: 70 CP**
+- Base Package: 33 CP
+- Problems: "Public stereotype" (5 CP) + "Sacred obligations" (5 CP) = 10 CP bonus
+- Available for customization: 37 + 10 = 47 CP
+- Use Citizen-Soldier template: 38 CP
+- Use Warrior template adjustments: Add 2d6 DEF (6 CP), Background Military Strategy (3 CP)
+- **Total used: 47 CP** (perfect fit)
+
+### Example: Gritty Halfling Rogue
+
+**Total: 45 CP**
+- Base Package: 33 CP
+- Problems: "Simple stereotype" (5 CP) = 5 CP bonus
+- Available: 12 + 5 = 17 CP
+- Use Rogue template: Evasion 2d6 (6), Security 2d6 (6), Background (2), DEF 1d6 (3)
+- **Total used: 17 CP** (perfect fit)
+
+### Example: Epic Elven Preservation Mage
+
+**Total: 100 CP**
+- Base Package: 33 CP
+- Problems: "Maintain facade" (severe, 10 CP) + "Intervention debates" (5 CP) = 15 CP
+- Available: 67 + 15 = 82 CP
+- Combine Epic Elf template + Epic Mage template
+- Focus on environmental magic, preservation themes
+- Adjust spell special effects to appear natural
+
+---
+
 # Monsters of Epiphaneia
 
 ## Overview
