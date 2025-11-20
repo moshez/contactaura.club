@@ -43,7 +43,7 @@ The characters struggle with three kinds of challenges:
 This is a superhero campaign. Characters are built with:
 
 - **Total CP:** 150
-- **CP from Problems:** 20-30 (required range)
+- **CP from Problems:** 30 (required)
 - **Base package:** Standard human baseline (included in the 150 CP)
 
 ### Starting with Your Concept
@@ -71,7 +71,7 @@ For archetype, you can draw inspiration from existing supers. Here is a short li
 
 ### Problems
 
-It's often easier (counterintuitively) to start with the Problems. Choose Problems until you reach the 20-30 CP range. This gives you extra character points while defining your character's struggles and complications.
+It's often easier (counterintuitively) to start with the Problems. You must take exactly 30 CP worth of Problems. This gives you extra character points while defining your character's struggles and complications.
 
 **Campaign-Specific Problem:**
 
@@ -79,7 +79,7 @@ All purple shinies have an innate aversion to yellow shinies. This should be tak
 
 - **Problem: Psychological aversion to yellow shinies (Common, Severe)** - 10 CP
 
-This is required for all characters and counts toward your 20-30 CP problem requirement.
+This is required for all characters and counts toward your 30 CP problem requirement.
 
 **Other Problem Ideas:**
 
@@ -211,12 +211,13 @@ Here are some pre-built power packages for common archetypes, adapted for the Sh
 - **Primary Attack:** Reduce Body 5d6 (75 CP), hand-to-hand only (0.5), requires high mass form (0.25) = 43 CP
 - **Resistance:** Resist Body reduction 4d6 (60 CP raw strength), only when in high mass form (0.5), reduced mobility (0.25) = 34 CP
 - **Enhanced Leaping:** Move 10m (2 CP), only for jumping (0.5) = 1.3 CP
+- **Intimidation:** Unopposed Skill: Intimidate 2d6 = 2 CP
 - **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
-- **Total:** 79 CP
+- **Total:** 81 CP
 
-**Civilian Skills (10-15 CP recommended)**
+**Civilian Skills:** 15 CP
 
-**Total Build:** 54 + 79 + 15 = 148 CP (within 150 base + 20-30 problems = 170-180 CP)
+**Total Build:** 150 CP (with 30 CP from problems = 180 CP)
 
 #### Speedster
 
@@ -234,9 +235,9 @@ Here are some pre-built power packages for common archetypes, adapted for the Sh
 - **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
 - **Total:** 63 CP
 
-**Civilian Skills (10-15 CP recommended)**
+**Civilian Skills:** 15 CP
 
-**Total Build:** 72 + 63 + 15 = 150 CP (within 150 base + 20-30 problems = 170-180 CP)
+**Total Build:** 150 CP (with 30 CP from problems = 180 CP)
 
 #### Energy Projector
 
@@ -247,22 +248,14 @@ Here are some pre-built power packages for common archetypes, adapted for the Sh
 - **Total:** 57 CP
 
 **Powers:**
-- **Primary Energy Blast:** Reduce Body 3d6 (45 CP), ranged 30m (×6) = 270 CP, with limitations: gestures (0.5), visible attack (0.25), requires aiming (0.25) = 135 CP
-- **Variant: Rapid Fire:** 2d6, ranged 30m, can hit multiple targets = 14 CP (10% of primary)
-- **Variant: Overcharge:** 4d6, ranged 30m, extra time (2 actions to charge) = 14 CP (10% of primary)
-- **Energy Shield:** Resistance to Body 2d6 (30 CP raw strength), requires concentration (0.5), visible effect (0.25) = 17 CP
+- **Energy Blast:** Reduce Body 2d6 (30 CP), ranged 20m (×5) = 150 CP, with limitations: gestures (0.5), visible attack (0.25), requires aiming (0.25) = 75 CP
+- **Variant: Overcharge:** 3d6, ranged 20m, extra time (2 actions to charge) = 8 CP (10% of primary)
 - **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
-- **Total:** 181 CP
+- **Total:** 84 CP
 
-**Civilian Skills (10-15 CP recommended)**
+**Civilian Skills:** 9 CP
 
-**Total Build:** 57 + 181 + 15 = 253 CP
-
-**Note:** This archetype is expensive! To fit within budget (150 base + 20-30 problems = 170-180 CP), consider:
-- Reducing primary blast to 2d6 (saves ~90 CP)
-- Taking 30 CP in problems instead of 20
-- Reducing range to 20m
-- Omitting the energy shield or variants
+**Total Build:** 150 CP (with 30 CP from problems = 180 CP)
 
 #### Mentalist
 
@@ -270,19 +263,18 @@ Here are some pre-built power packages for common archetypes, adapted for the Sh
 
 **Attributes:**
 - ACT 3d6 (27 CP), ACC 3d6 (9 CP), DEF 4d6 (12 CP), PER 5d6 (15 CP)
-- **Total:** 63 CP (mentalists need high PER)
+- **Total:** 63 CP
 
 **Powers:**
 - **Detect Thoughts:** Detect 3d6 (9 CP), range 20m (×5) = 45 CP, with limitations: requires concentration (0.5), line of sight (0.5) = 23 CP
 - **Telepathic Communication:** Signal 2d6 (6 CP), range 20m (×5) = 30 CP, multiple recipients (×2) = 60 CP, with limitations: requires concentration (0.5), line of sight (0.5), only willing recipients (0.5) = 24 CP
 - **Mental Attack:** Reduce Accuracy 2d6 (30 CP), ranged 10m (×4) = 120 CP, with limitations: line of sight (0.5), requires concentration (0.5), use PER resistance (0.5), extra time: 2 actions (0.5), cool down: 3 actions (1.0) = 30 CP
-- **Mental Shield:** Resistance to mental attacks 2d6 (30 CP raw strength), only vs. mental powers (0.5) = 20 CP
 - **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
-- **Total:** 98 CP
+- **Total:** 78 CP
 
-**Civilian Skills (10-15 CP recommended)**
+**Civilian Skills:** 9 CP
 
-**Total Build:** 63 + 98 + 15 = 176 CP (requires 25-30 CP in problems to fit budget)
+**Total Build:** 150 CP (with 30 CP from problems = 180 CP)
 
 ### Power Construction Guidelines
 
@@ -308,10 +300,10 @@ When building powers for this campaign:
 
 **Problems:**
 - Psychological aversion to yellows (Common, Severe): 10 CP
-- Dependents: Elderly parents who depend on his income (Common, Mild): 5 CP
+- Dependents: Elderly parents who depend on his income (Common, Severe): 10 CP
 - Physical limitation: Powers drain energy, needs lots of food (Common, Mild): 5 CP
-- Social: Known for disappearing during emergencies (Uncommon, Mild): 3 CP
-**Total Problems: 23 CP**
+- Social: Known for disappearing during emergencies (Common, Mild): 5 CP
+**Total Problems: 30 CP**
 
 **Attributes:**
 - ACT 3d6: 27 CP
@@ -329,16 +321,14 @@ When building powers for this campaign:
 **Total: 10 CP**
 
 **Powers:**
-- **Mighty Strike:** Reduce Body 5d6 (75 CP), hand-to-hand (0.5), requires high-mass form (0.25) = 43 CP
-- **Tough Skin:** Resistance: Body 4d6 raw strength (60 CP), only when in high-mass form (0.5), reduced mobility (0.25) = 34 CP
-- **Powerful Leap:** Move 10m (2 CP), only for leaping/jumping (0.5) = 1.3 CP
-- **Ground Slam:** Reduce Body 3d6 (45 CP), AoE 3m radius (×2) = 90 CP, requires ground contact (0.5), extra time: 1 action (0.5), hand-to-hand (0.5) = 38 CP
+- **Mighty Strike:** Reduce Body 4d6 (60 CP), hand-to-hand (0.5), requires high-mass form (0.25) = 34 CP
+- **Tough Skin:** Resistance: Body 3d6 raw strength (45 CP), only when in high-mass form (0.5), reduced mobility (0.25) = 26 CP
+- **Powerful Leap:** Move 10m (2 CP), only for leaping/jumping (0.5) = 1 CP
+- **Ground Slam:** Reduce Body 2d6 (30 CP), AoE 3m radius (×2) = 60 CP, requires ground contact (0.5), extra time: 1 action (0.5), hand-to-hand (0.5) = 24 CP
 - **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
-**Total: 117 CP**
+**Total: 86 CP**
 
-**Total CP: 54 + 10 + 117 = 181 CP from base 150 + 23 problems = 173 CP available**
-
-**Build Notes:** Slightly over budget by 8 CP. Can be adjusted by reducing Ground Slam range, taking another 5-7 CP problem, or reducing one attribute by 1d6.
+**Total CP:** 180 (150 base + 30 from problems)
 
 #### "Zephyr" - The Speedster
 
@@ -348,10 +338,10 @@ When building powers for this campaign:
 
 **Problems:**
 - Psychological aversion to yellows (Common, Severe): 10 CP
-- Psychological: Impulsive, acts without thinking (Common, Mild): 5 CP
+- Psychological: Impulsive, acts without thinking (Common, Severe): 10 CP
 - Social: Known for being "weird" and unreliable in civilian life (Common, Mild): 5 CP
-- Physical: Metabolism requires frequent eating (Uncommon, Mild): 3 CP
-**Total Problems: 23 CP**
+- Physical: Metabolism requires frequent eating (Common, Mild): 5 CP
+**Total Problems: 30 CP**
 
 **Attributes:**
 - ACT 5d6: 48 CP
@@ -365,20 +355,19 @@ When building powers for this campaign:
 - Systems: Bicycle repair (2d6): 2 CP
 - Communication: Persuasion (2d6): 2 CP
 - Unopposed Skill: Acrobatics (3d6): 3 CP
-**Total: 10 CP**
+- Unopposed Skill: Stealth (2d6): 2 CP
+- Unopposed Skill: Streetwise (2d6): 2 CP
+**Total: 14 CP**
 
 **Powers:**
-- **Super Speed:** Move 40m (8 CP), speed inertia (0.25), requires running space (0.25) = 5.3 CP
-- **Lightning Strike:** Reduce Body 2d6 (30 CP), hand-to-hand (0.5), requires high-speed approach (0.5) = 15 CP
+- **Super Speed:** Move 30m (6 CP), speed inertia (0.25), requires running space (0.25) = 4 CP
+- **Lightning Strike:** Reduce Body 3d6 (45 CP), hand-to-hand (0.5), requires high-speed approach (0.5) = 23 CP
 - **Speed Burst:** Improve ACT 2d6 (30 CP), self-only (0.5), requires concentration (0.5) = 15 CP
 - **Quick Reflexes:** Unopposed Skill: Evasion 4d6 = 12 CP
-- **Vibration Touch:** Reduce Body 3d6 (45 CP), hand-to-hand (0.5), requires vibrating at high speed (0.5), extra time: 2 actions (0.5) = 18 CP
 - **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
-**Total: 66 CP**
+**Total: 55 CP**
 
-**Total CP: 81 + 10 + 66 = 157 CP from base 150 + 23 problems = 173 CP available**
-
-**Build Notes:** Well within budget with 16 CP to spare for additional skills, powers, or higher attributes.
+**Total CP:** 180 (150 base + 30 from problems)
 
 ### Campaign-Specific Rules
 
