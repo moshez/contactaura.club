@@ -525,36 +525,36 @@ Great framework. Let me work through examples using "how much does this actually
 
 Let's apply this to **Reduce Body 3d6 (Ranged 10m)** - raw cost before limitations:
 
-**Unrestricted**: 45 CP base × 4 range multiplier = 180 CP
+**Unrestricted**: 45 CP base × 2 range multiplier = 90 CP
 
 **With 0.25 limitation** (one of):
 
-- Requires gun (carried daily, rarely lost): 180/1.25 = **144 CP**
-- Verbal component (occasional issue): 180/1.25 = **144 CP**
+- Requires gun (carried daily, rarely lost): 90/1.25 = **72 CP**
+- Verbal component (occasional issue): 90/1.25 = **72 CP**
 
 **With 0.5 limitation** (one of):
 
-- Requires specific weapon: 180/1.5 = **120 CP**
-- Requires skill roll: 180/1.5 = **120 CP**
-- Only against living targets (when you sometimes fight robots): 180/1.5 = **120 CP**
+- Requires specific weapon: 90/1.5 = **60 CP**
+- Requires skill roll: 90/1.5 = **60 CP**
+- Only against living targets (when you sometimes fight robots): 90/1.5 = **60 CP**
 
 **With 1.0 limitation** (one of):
 
-- Only in darkness (half of fights): 180/2 = **90 CP**
-- Cool down 3 actions: 180/2 = **90 CP**
-- Once per session: 180/2 = **90 CP**
+- Only in darkness (half of fights): 90/2 = **45 CP**
+- Cool down 3 actions: 90/2 = **45 CP**
+- Once per session: 90/2 = **45 CP**
 
-**Multiple limitations stack**: 
-- Requires specific weapon (0.5) + Verbal (0.25) + Limited ammo (0.25) = 180/2.0 = **90 CP**
+**Multiple limitations stack**:
+- Requires specific weapon (0.5) + Verbal (0.25) + Limited ammo (0.25) = 90/2.0 = **45 CP**
 
 ##### The Agnostic Test
 
 For a power, you should be roughly indifferent between:
 
-**Attack Option A**: Reduce Body 3d6, ranged, unrestricted (180 CP)
-**Attack Option B**: Reduce Body 4d6, ranged, requires weapon (60×4/1.25 = 192 CP)
-**Attack Option C**: Reduce Body 5d6, ranged, requires specific weapon (75×4/1.5 = 200 CP)
-**Attack Option D**: Reduce Body 6d6, ranged, only in darkness (90×4/2 = 180 CP)
+**Attack Option A**: Reduce Body 3d6, ranged, unrestricted (90 CP)
+**Attack Option B**: Reduce Body 4d6, ranged, requires weapon (60×2/1.25 = 96 CP)
+**Attack Option C**: Reduce Body 5d6, ranged, requires specific weapon (75×2/1.5 = 100 CP)
+**Attack Option D**: Reduce Body 6d6, ranged, only in darkness (90×2/2 = 90 CP)
 
 These are all similar costs, but Option D has 2× the dice when it works but only works half the time. Option A always works but with fewer dice. The question "which is better" should depend on your character concept and campaign, not obvious optimization.
 
@@ -864,19 +864,19 @@ This represents a character who has extensively trained with swords and has deve
 ##### Basic Bow Proficiency
 
 - **Reduce Body:** 2d6 (30 CP raw strength)
-  - **Advantages:** Ranged (assuming ~30m standard range: ×6 multiplier) = 180 CP
+  - **Advantages:** Ranged (assuming ~30m standard range: ×2 multiplier) = 60 CP
   - **Limitations:** Requires weapon (bow) (0.5), Requires two hands (0.5)
-  - **Cost:** 180/(1+0.5+0.5) = 180/2 = 90 CP
+  - **Cost:** 60/(1+0.5+0.5) = 60/2 = 30 CP
 
 ##### Archery Specialist
 
 - **2d6 Reduce Body** (30 CP raw strength)
-  - **Advantages:** Ranged (assuming ~30m standard range: ×6 multiplier) = 180 CP
+  - **Advantages:** Ranged (assuming ~30m standard range: ×2 multiplier) = 60 CP
 - **4d6 System** (12 CP)
   - Can be distributed between Accuracy, Defense, and Act when using the bow
-- **Total raw strength:** 192 CP
+- **Total raw strength:** 72 CP
 - **Limitations:** Requires weapon (bow) (0.5), Requires two hands (0.5)
-- **Cost:** 192/2 = 96 CP
+- **Cost:** 72/2 = 36 CP
 
 **Optional Bow Specializations:**
 
@@ -904,15 +904,15 @@ Magic in fantasy Plasticine uses the core power system with specific limitations
 
 - **Reduce Body:** 2d6 (30 CP raw strength)
   - **Advantages:**
-    - Ranged (10m range: ×4 multiplier) = 120 CP
-    - Area of Effect (3m radius: ×2 multiplier) = 240 CP
+    - Ranged (10m range: ×2 multiplier) = 60 CP
+    - Area of Effect (3m radius: ×2 multiplier) = 120 CP
   - **Limitations:**
     - Requires gestures (0.5)
     - Requires verbalization/incantation (0.5)
     - Requires concentration (0.5)
     - Requires skill roll (0.5)
     - Cool down: exhausts magic for next three actions (1.0)
-  - **Cost:** 240/(1+0.5+0.5+0.5+0.5+1.0) = 240/4 = 60 CP
+  - **Cost:** 120/(1+0.5+0.5+0.5+0.5+1.0) = 120/4 = 30 CP
 
 Using the Variant system advantage, a mage could purchase additional related spells at reduced cost:
 
