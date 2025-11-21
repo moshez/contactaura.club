@@ -310,7 +310,8 @@ When building powers for this campaign:
 
 **Problems:**
 - Psychological aversion to yellows (Common, Severe): 10 CP
-- Dependents: Elderly parents who depend on his income (Common, Severe): 10 CP
+- Social: Dependents - elderly parents need financial support (Uncommon, Mild): 5 CP
+- Social: Working-class job limits flexibility for hero work (Common, Mild): 5 CP
 - Physical limitation: Powers drain energy, needs lots of food (Common, Mild): 5 CP
 - Social: Known for disappearing during emergencies (Common, Mild): 5 CP
 **Total Problems: 30 CP**
@@ -387,7 +388,8 @@ When building powers for this campaign:
 
 **Problems:**
 - Psychological aversion to yellows (Common, Severe): 10 CP
-- Social: Struggling artist, financial instability (Common, Severe): 10 CP
+- Social: Struggling artist, financial instability (Common, Mild): 5 CP
+- Social: No stable income, unreliable schedule (Common, Mild): 5 CP
 - Physical: Powers leave afterimages in vision temporarily (Common, Mild): 5 CP
 - Psychological: Perfectionist, overworks themselves (Common, Mild): 5 CP
 **Total Problems: 30 CP**
