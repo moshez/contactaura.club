@@ -310,10 +310,10 @@ When building powers for this campaign:
 
 **Problems:**
 - Psychological aversion to yellows (Common, Severe): 10 CP
-- Social: Dependents - elderly parents need financial support (Uncommon, Mild): 5 CP
-- Social: Working-class job limits flexibility for hero work (Common, Mild): 5 CP
-- Physical limitation: Powers drain energy, needs lots of food (Common, Mild): 5 CP
-- Social: Known for disappearing during emergencies (Common, Mild): 5 CP
+- Social: Union steward - can't skip work without consequences (Common, Mild): 5 CP
+- Social: Brother is a cop, asks awkward questions about disappearances (Uncommon, Mild): 5 CP
+- Physical: Powers require eating 5000+ calories/day or suffer -1d6 to all rolls (Common, Mild): 5 CP
+- Social: Owes favor to mob-connected contractor who "helped" his parents (Uncommon, Mild): 5 CP
 **Total Problems: 30 CP**
 
 **Attributes:**
@@ -349,10 +349,10 @@ When building powers for this campaign:
 
 **Problems:**
 - Psychological aversion to yellows (Common, Severe): 10 CP
-- Psychological: Impulsive, rushes into danger (Common, Mild): 5 CP
-- Social: Known for being "weird" and unreliable in civilian life (Common, Mild): 5 CP
-- Physical: Metabolism requires frequent eating (Common, Mild): 5 CP
-- Physical: Chronic knee injury from pre-powers accident (Uncommon, Mild): 5 CP
+- Psychological: Impulsive - must roll PER (Difficult) to avoid rushing in (Common, Mild): 5 CP
+- Social: Flaky reputation - friends/coworkers don't trust her to show up (Common, Mild): 5 CP
+- Physical: Metabolism requires eating every 3 hours or take 1d6 Body damage/hour (Common, Mild): 5 CP
+- Social: Owes money to loan shark, being pressured (Uncommon, Mild): 5 CP
 **Total Problems: 30 CP**
 
 **Attributes:**
@@ -389,10 +389,9 @@ When building powers for this campaign:
 
 **Problems:**
 - Psychological aversion to yellows (Common, Severe): 10 CP
-- Social: Struggling artist, financial instability (Common, Mild): 5 CP
-- Social: Ex-partner knows too much, must avoid them (Uncommon, Mild): 5 CP
-- Physical: Powers leave afterimages in vision temporarily (Common, Mild): 5 CP
-- Psychological: Perfectionist, overworks themselves (Common, Mild): 5 CP
+- Social: Can't pay rent - two months behind, facing eviction (Common, Mild): 5 CP
+- Social: Ex-partner Jamie is a journalist, actively investigating "purple lights" (Uncommon, Severe): 10 CP
+- Physical: After using Light Blast, -1 PER for 10 minutes (Common, Mild): 5 CP
 **Total Problems: 30 CP**
 
 **Attributes:**
@@ -427,9 +426,9 @@ When building powers for this campaign:
 
 **Problems:**
 - Psychological aversion to yellows (Common, Severe): 10 CP
-- Psychological: Can't always shut off empathic sensing (Common, Severe): 10 CP
-- Social: Divorced, strained relationship with ex-spouse (Common, Mild): 5 CP
-- Physical: Migraines from power overuse (Common, Mild): 5 CP
+- Psychological: Empathic sense always on - overwhelmed in crowds, -2d6 PER (Common, Severe): 10 CP
+- Social: Ex-husband is school board member, could get her fired (Uncommon, Mild): 5 CP
+- Physical: Using telepathy 3+ times in scene causes incapacitating migraine (Common, Mild): 5 CP
 **Total Problems: 30 CP**
 
 **Attributes:**
