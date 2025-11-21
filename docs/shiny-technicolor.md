@@ -349,9 +349,10 @@ When building powers for this campaign:
 
 **Problems:**
 - Psychological aversion to yellows (Common, Severe): 10 CP
-- Psychological: Impulsive, acts without thinking (Common, Severe): 10 CP
+- Psychological: Impulsive, rushes into danger (Common, Mild): 5 CP
 - Social: Known for being "weird" and unreliable in civilian life (Common, Mild): 5 CP
 - Physical: Metabolism requires frequent eating (Common, Mild): 5 CP
+- Physical: Chronic knee injury from pre-powers accident (Uncommon, Mild): 5 CP
 **Total Problems: 30 CP**
 
 **Attributes:**
@@ -389,7 +390,7 @@ When building powers for this campaign:
 **Problems:**
 - Psychological aversion to yellows (Common, Severe): 10 CP
 - Social: Struggling artist, financial instability (Common, Mild): 5 CP
-- Social: No stable income, unreliable schedule (Common, Mild): 5 CP
+- Social: Ex-partner knows too much, must avoid them (Uncommon, Mild): 5 CP
 - Physical: Powers leave afterimages in vision temporarily (Common, Mild): 5 CP
 - Psychological: Perfectionist, overworks themselves (Common, Mild): 5 CP
 **Total Problems: 30 CP**
