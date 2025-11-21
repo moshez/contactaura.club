@@ -368,16 +368,16 @@ When building powers for this campaign:
 - Background: Streetwise (2d6): 2 CP
 - Background: Stealth (2d6): 2 CP
 - Communication: Persuasion (2d6): 2 CP
+- Seeking/Evasion: Evasion (4d6): 12 CP
 - Systems: Bicycle repair (2d6): 2 CP
-**Total: 14 CP**
+**Total: 26 CP**
 
 **Powers:**
 - **Super Speed:** Move 30m (6 CP), speed inertia (0.25), requires running space (0.25) = 4 CP
 - **Lightning Strike:** Reduce Body 3d6 (45 CP), hand-to-hand (0.5), requires high-speed approach (0.5) = 23 CP
 - **Speed Burst:** Improve ACT 2d6 (30 CP), self-only (0.5), requires concentration (0.5) = 15 CP
-- **Quick Reflexes:** Unopposed Skill: Evasion 4d6 = 12 CP
 - **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
-**Total: 55 CP**
+**Total: 43 CP**
 
 **Total CP:** 180 (150 base + 30 from problems)
 
