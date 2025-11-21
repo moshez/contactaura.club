@@ -315,6 +315,7 @@ Thalia Wavestrider - Human Navigator
    - ACC 3d6: 9 CP
    - DEF 4d6: 12 CP
    - PER 5d6: 15 CP
+
    **Total: 63 CP**
 
 **Skills:**
@@ -323,11 +324,13 @@ Thalia Wavestrider - Human Navigator
    - Systems: Navigation tools 3d6: 3 CP
    - Seeking: Finding shortcuts 3d6: 6 CP
    - Communication: Professional guidance 2d6: 2 CP
+
    **Total: 18 CP**
 
 **Powers:**
    - Shortcut Sense (as above): 30 CP
    - Basic sword (Reduce Body 2d6, requires weapon): 10 CP
+
    **Total: 40 CP**
 
 **Problems:**
@@ -335,6 +338,7 @@ Thalia Wavestrider - Human Navigator
    - Social: Obligation to Cartographers' Guild (Common, Mild): 5 CP
    - Internal: Compulsion to explore unknown zones (Common, Severe): 10 CP
    - Mechanical: Poor vision in darkness, -2 to PER (Moderate, Moderate): 3 CP (negotiated with GM)
+
    **Total: 25 CP**
 
 **Total CP: 121 (63 attributes + 18 skills + 40 powers - 25 from base package)**
@@ -353,6 +357,7 @@ Resonance - Murmurati Healer
    - ACC 3d6: 9 CP
    - DEF 3d6: 9 CP
    - PER 4d6: 12 CP
+
    **Total: 57 CP**
 
 **Skills:**
@@ -360,6 +365,7 @@ Resonance - Murmurati Healer
    - Background: Bloom ecology 3d6: 3 CP
    - Communication: Bedside manner 3d6: 3 CP
    - Systems: Medical tools 2d6: 2 CP
+
    **Total: 13 CP**
 
 **Powers:**
@@ -367,6 +373,7 @@ Resonance - Murmurati Healer
    - Soothe Pain: Reduce Body adjustment 1d6 (15 CP), Improve variant (×2) = 30 CP, self and others, limitations: Touch range only (0.5), Temporary (wears off in hours) (0.5), Only pain/discomfort not actual damage (1.0) = 30/3 = 10 CP
    - Bloom Attunement: Resistance to Bloom overgrowth effects 2d6 (30 CP), limitations: Only vs. Bloom (1.0) = 15 CP
    - Basic staff (Reduce Body 1d6, requires weapon): 5 CP
+
    **Total: 40 CP**
 
 **Problems:**
@@ -374,6 +381,7 @@ Resonance - Murmurati Healer
    - Social: Dependents at hospital (Common, Moderate): 7-8 CP
    - Internal: Overwhelming empathy causes distress (Common, Moderate): 7-8 CP
    - Social: Oath to heal anyone regardless of politics (Moderate, Mild): 5 CP
+
    **Total: 24-25 CP**
 
 Character Development
