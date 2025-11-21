@@ -204,20 +204,20 @@ These are coherent skill packages for common civilian identities. Choose one and
 Skilled in argumentation, legal knowledge, and persuasion.
 
 - Background: Law (4d6): 4 CP
+- Background: Legal research (4d6): 4 CP
+- Background: Investigation (2d6): 2 CP
 - Communication: Persuasion (3d6): 3 CP
 - Communication: Intimidation (2d6): 2 CP
-- Unopposed Skill: Legal research (3d6): 3 CP
-- Systems: Computer use (2d6): 2 CP
-**Total: 14 CP**
+**Total: 15 CP**
 
 #### Programmer/Hacker
 
 Technical expertise with computers and security systems.
 
 - Background: Computer science (4d6): 4 CP
+- Background: Debugging (2d6): 2 CP
 - Security/Hacking: Computer systems (3d6): 6 CP
 - Systems: Network operations (3d6): 3 CP
-- Unopposed Skill: Debugging (2d6): 2 CP
 **Total: 15 CP**
 
 #### Doctor/Medical Professional
@@ -226,8 +226,8 @@ Medical training and patient care skills.
 
 - Background: Medicine (4d6): 4 CP
 - Background: Biology (3d6): 3 CP
+- Background: Diagnosis (3d6): 3 CP
 - Communication: Bedside manner (3d6): 3 CP
-- Unopposed Skill: Diagnosis (3d6): 3 CP
 - Systems: Medical equipment (2d6): 2 CP
 **Total: 15 CP**
 
@@ -236,10 +236,10 @@ Medical training and patient care skills.
 Investigation, writing, and information gathering.
 
 - Background: Journalism (3d6): 3 CP
+- Background: Investigation (2d6): 2 CP
 - Communication: Written (3d6): 3 CP
 - Communication: Interviewing (3d6): 3 CP
 - Systems: Computer research (3d6): 3 CP
-- Unopposed Skill: Investigation (2d6): 2 CP
 **Total: 14 CP**
 
 #### Mechanic/Engineer
@@ -248,9 +248,9 @@ Mechanical aptitude and technical repair skills.
 
 - Background: Automotive engineering (3d6): 3 CP
 - Background: Mechanical systems (3d6): 3 CP
-- Systems: Vehicle operation (3d6): 3 CP
+- Background: Repair (2d6): 2 CP
 - Security/Hacking: Mechanical locks (2d6): 4 CP
-- Unopposed Skill: Repair (2d6): 2 CP
+- Systems: Vehicle operation (3d6): 3 CP
 **Total: 15 CP**
 
 #### Teacher/Professor
@@ -259,9 +259,9 @@ Academic knowledge and communication skills.
 
 - Background: Education field (4d6): 4 CP
 - Background: Secondary field (3d6): 3 CP
+- Background: Research (2d6): 2 CP
 - Communication: Teaching (3d6): 3 CP
 - Communication: Public speaking (2d6): 2 CP
-- Unopposed Skill: Research (2d6): 2 CP
 **Total: 14 CP**
 
 #### Service Worker (Restaurant/Retail)
@@ -269,20 +269,20 @@ Academic knowledge and communication skills.
 Customer service and practical skills.
 
 - Background: Hospitality (3d6): 3 CP
+- Background: Reading people (4d6): 4 CP
+- Background: Multitasking (2d6): 2 CP
+- Background: Streetwise (2d6): 2 CP
 - Communication: Customer service (3d6): 3 CP
-- Systems: Point of sale systems (2d6): 2 CP
-- Unopposed Skill: Reading people (3d6): 3 CP
-- Unopposed Skill: Multitasking (2d6): 2 CP
-**Total: 13 CP**
+**Total: 14 CP**
 
 #### Artist/Performer
 
 Creative expression and performance abilities.
 
 - Background: Art/Performance field (4d6): 4 CP
+- Background: Creative expression (3d6): 3 CP
+- Background: Art history/technique (2d6): 2 CP
 - Communication: Performance (3d6): 3 CP
-- Unopposed Skill: Creative expression (3d6): 3 CP
-- Unopposed Skill: Art history/technique (2d6): 2 CP
 - Systems: Relevant tools (2d6): 2 CP
 **Total: 14 CP**
 
@@ -310,33 +310,34 @@ When building powers for this campaign:
 
 **Problems:**
 - Psychological aversion to yellows (Common, Severe): 10 CP
-- Dependents: Elderly parents who depend on his income (Common, Severe): 10 CP
-- Physical limitation: Powers drain energy, needs lots of food (Common, Mild): 5 CP
-- Social: Known for disappearing during emergencies (Common, Mild): 5 CP
+- Social: Union steward - can't skip work without consequences (Common, Mild): 5 CP
+- Social: Brother is a cop, asks awkward questions about disappearances (Uncommon, Mild): 5 CP
+- Physical: Powers require eating 5000+ calories/day or suffer -1d6 to all rolls (Common, Mild): 5 CP
+- Social: Owes favor to mob-connected contractor who "helped" his parents (Uncommon, Mild): 5 CP
 **Total Problems: 30 CP**
 
 **Attributes:**
 - ACT 3d6: 27 CP
 - ACC 3d6: 9 CP
-- DEF 3d6: 9 CP
+- DEF 4d6: 12 CP
 - PER 3d6: 9 CP
-**Total: 54 CP**
+**Total: 57 CP**
 
 **Civilian Skills:**
 - Background: Construction (3d6): 3 CP
 - Background: First aid (2d6): 2 CP
-- Systems: Heavy equipment operation (2d6): 2 CP
+- Background: Athletics (3d6): 3 CP
 - Communication: Spanish (native level): 1 CP
-- Unopposed Skill: Athletics (2d6): 2 CP
-**Total: 10 CP**
+- Systems: Heavy equipment operation (2d6): 2 CP
+**Total: 11 CP**
 
 **Powers:**
 - **Mighty Strike:** Reduce Body 4d6 (60 CP), hand-to-hand (0.5), requires high-mass form (0.25) = 34 CP
-- **Tough Skin:** Resistance: Body 3d6 raw strength (45 CP), only when in high-mass form (0.5), reduced mobility (0.25) = 26 CP
+- **Variant: Ground Slam:** Reduce Body 2d6, AoE 3m radius, requires ground contact, extra time: 1 action, hand-to-hand = 3 CP (variant at 10% of primary)
+- **Tough Skin:** Resistance: Body 5d6 raw strength (75 CP), only when in high-mass form (0.5), reduced mobility (0.25) = 43 CP
 - **Powerful Leap:** Move 10m (2 CP), only for leaping/jumping (0.5) = 1 CP
-- **Ground Slam:** Reduce Body 2d6 (30 CP), AoE 3m radius (×2) = 60 CP, requires ground contact (0.5), extra time: 1 action (0.5), hand-to-hand (0.5) = 24 CP
 - **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
-**Total: 86 CP**
+**Total: 82 CP**
 
 **Total CP:** 180 (150 base + 30 from problems)
 
@@ -348,9 +349,10 @@ When building powers for this campaign:
 
 **Problems:**
 - Psychological aversion to yellows (Common, Severe): 10 CP
-- Psychological: Impulsive, acts without thinking (Common, Severe): 10 CP
-- Social: Known for being "weird" and unreliable in civilian life (Common, Mild): 5 CP
-- Physical: Metabolism requires frequent eating (Common, Mild): 5 CP
+- Psychological: Impulsive - must roll PER (Difficult) to avoid rushing in (Common, Mild): 5 CP
+- Social: Flaky reputation - friends/coworkers don't trust her to show up (Common, Mild): 5 CP
+- Physical: Metabolism requires eating every 3 hours or take 1d6 Body damage/hour (Common, Mild): 5 CP
+- Social: Owes money to loan shark, being pressured (Uncommon, Mild): 5 CP
 **Total Problems: 30 CP**
 
 **Attributes:**
@@ -362,20 +364,20 @@ When building powers for this campaign:
 
 **Civilian Skills:**
 - Background: Bay Area geography (3d6): 3 CP
-- Systems: Bicycle repair (2d6): 2 CP
+- Background: Acrobatics (3d6): 3 CP
+- Background: Streetwise (2d6): 2 CP
+- Background: Stealth (2d6): 2 CP
 - Communication: Persuasion (2d6): 2 CP
-- Unopposed Skill: Acrobatics (3d6): 3 CP
-- Unopposed Skill: Stealth (2d6): 2 CP
-- Unopposed Skill: Streetwise (2d6): 2 CP
-**Total: 14 CP**
+- Seeking/Evasion: Evasion (4d6): 12 CP
+- Systems: Bicycle repair (2d6): 2 CP
+**Total: 26 CP**
 
 **Powers:**
 - **Super Speed:** Move 30m (6 CP), speed inertia (0.25), requires running space (0.25) = 4 CP
 - **Lightning Strike:** Reduce Body 3d6 (45 CP), hand-to-hand (0.5), requires high-speed approach (0.5) = 23 CP
 - **Speed Burst:** Improve ACT 2d6 (30 CP), self-only (0.5), requires concentration (0.5) = 15 CP
-- **Quick Reflexes:** Unopposed Skill: Evasion 4d6 = 12 CP
 - **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
-**Total: 55 CP**
+**Total: 43 CP**
 
 **Total CP:** 180 (150 base + 30 from problems)
 
@@ -387,32 +389,32 @@ When building powers for this campaign:
 
 **Problems:**
 - Psychological aversion to yellows (Common, Severe): 10 CP
-- Social: Struggling artist, financial instability (Common, Severe): 10 CP
-- Physical: Powers leave afterimages in vision temporarily (Common, Mild): 5 CP
-- Psychological: Perfectionist, overworks themselves (Common, Mild): 5 CP
+- Social: Can't pay rent - two months behind, facing eviction (Common, Mild): 5 CP
+- Social: Ex-partner Jamie is a journalist, actively investigating "purple lights" (Uncommon, Severe): 10 CP
+- Physical: After using Light Blast, -1 PER for 10 minutes (Common, Mild): 5 CP
 **Total Problems: 30 CP**
 
 **Attributes:**
 - ACT 3d6: 27 CP
 - ACC 4d6: 12 CP
-- DEF 3d6: 9 CP
+- DEF 4d6: 12 CP
 - PER 3d6: 9 CP
-**Total: 57 CP**
+**Total: 60 CP**
 
 **Civilian Skills:**
 - Background: Photography (4d6): 4 CP
 - Background: Art/Composition (3d6): 3 CP
+- Background: Visual perception (1d6): 1 CP
 - Systems: Photo equipment (2d6): 2 CP
-- Unopposed Skill: Visual perception (1d6): 1 CP
 **Total: 10 CP**
 
 **Powers:**
-- **Light Blast:** Reduce Body 2d6 (30 CP), ranged 20m (×5) = 150 CP, with limitations: gestures (0.5), visible light beam (0.25), requires clear line of sight (0.25), affected by darkness/smoke (0.5) = 60 CP
-- **Variant: Blinding Flash:** Reduce Accuracy 1d6, ranged 15m, AoE 3m = 6 CP
-- **Light Bend:** Unopposed Skill: Stealth 3d6 (by bending light around self) = 9 CP
-- **Enhanced Vision:** Detect: Light/thermal signatures 1d6 (3 CP), range 20m (×5) = 15 CP, with limitations: requires concentration (0.5), only works at night (0.5), affects own vision (0.25) = 6.75 CP (round to 7 CP)
+- **Light Blast:** Reduce Body 4d6 (60 CP), ranged 30m (×2) = 120 CP, with limitations: gestures (0.5), visible light beam (0.25), requires clear line of sight (0.25), affected by darkness/smoke (0.5) = 48 CP
+- **Variant: Blinding Flash:** Reduce Accuracy 2d6, ranged 30m, AoE 3m = 5 CP (variant at 10% of primary)
+- **Light Bend:** Reduce PER 2d6 (30 CP), only vs. sight (1.0), only to hide self (1.0) = 10 CP
+- **Enhanced Vision:** Detect: Light/thermal signatures 2d6 (6 CP), range 20m (×4.3) = 26 CP, with limitations: requires concentration (0.5), only works at night (1.0), affects own vision (0.25) = 10 CP
 - **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
-**Total: 83 CP**
+**Total: 74 CP**
 
 **Total CP:** 180 (150 base + 30 from problems)
 
@@ -424,17 +426,17 @@ When building powers for this campaign:
 
 **Problems:**
 - Psychological aversion to yellows (Common, Severe): 10 CP
-- Psychological: Can't always shut off empathic sensing (Common, Severe): 10 CP
-- Social: Divorced, strained relationship with ex-spouse (Common, Mild): 5 CP
-- Physical: Migraines from power overuse (Common, Mild): 5 CP
+- Psychological: Empathic sense always on - overwhelmed in crowds, -2d6 PER (Common, Severe): 10 CP
+- Social: Ex-husband is school board member, could get her fired (Uncommon, Mild): 5 CP
+- Physical: Using telepathy 3+ times in scene causes incapacitating migraine (Common, Mild): 5 CP
 **Total Problems: 30 CP**
 
 **Attributes:**
 - ACT 3d6: 27 CP
 - ACC 3d6: 9 CP
 - DEF 4d6: 12 CP
-- PER 4d6+2: 13 CP
-**Total: 61 CP**
+- PER 4d6: 12 CP
+**Total: 60 CP**
 
 **Civilian Skills:**
 - Background: Psychology (4d6): 4 CP
@@ -444,13 +446,13 @@ When building powers for this campaign:
 **Total: 9 CP**
 
 **Powers:**
-- **Detect Thoughts:** Detect 2d6 (6 CP), range 15m (×4) = 24 CP, with limitations: requires concentration (0.5), line of sight (0.5), surface thoughts only (0.25), extra time: 1 action (0.5) = 9.6 CP (round to 10 CP)
-- **Telepathic Link:** Signal 1d6 (3 CP), range 20m (×5) = 15 CP, multiple recipients (×2) = 30 CP, with limitations: requires concentration (0.5), willing recipients only (0.5), line of sight initially (0.5), requires touch to establish (0.5) = 12 CP
-- **Mental Confusion:** Reduce Accuracy 2d6 (30 CP), ranged 10m (×4) = 120 CP, with limitations: line of sight (0.5), requires concentration (0.5), use PER defense (0.5), extra time: 2 actions (0.5), causes mental strain/fatigue (0.5), cool down: 3 actions (1.0) = 25 CP
-- **Empathic Sense:** Detect: Emotions 2d6 (6 CP), range 10m (×4) = 24 CP, with limitations: always on when near people (0.5), requires concentration to filter (0.5), overwhelming in crowds (0.5) = 12 CP
-- **Mental Shield:** Resistance to mental attacks 2d6 (30 CP raw strength), only vs. mental/emotional powers (0.5), requires awareness of attack (0.5), only when concentrating (0.5) = 15 CP
+- **Detect Thoughts:** Detect 2d6 (6 CP), range 15m (×4.9) = 29 CP, with limitations: requires concentration (0.5), line of sight (0.5), surface thoughts only (0.25), extra time: 1 action (0.5) = 11 CP
+- **Telepathic Link:** Signal 1d6 (3 CP), range 20m (×5.3) = 16 CP, multiple recipients (×2) = 32 CP, with limitations: requires concentration (0.5), willing recipients only (0.5), line of sight initially (0.5), requires touch to establish (0.5) = 12 CP
+- **Mental Confusion:** Reduce Accuracy 2d6 (30 CP), ranged 30m (×2) = 60 CP, use PER defense (×2) = 120 CP, with limitations: line of sight (0.5), requires concentration (0.5), extra time: 2 actions (0.5), causes mental strain/fatigue (0.5), cool down: 3 actions (1.0) = 30 CP
+- **Empathic Sense:** Detect: Emotions 2d6 (6 CP), range 10m (×4.3) = 26 CP, with limitations: always on when near people (0.5), requires concentration to filter (0.5), overwhelming in crowds (0.5) = 13 CP
+- **Mental Shield:** Resistance to mental attacks 2d6 (30 CP raw strength), only vs. mental/emotional powers (0.5), requires awareness of attack (0.5), only when concentrating (0.5) = 14 CP
 - **Purple Shine:** Signal 1d6 (3 CP), standard limitations (2.0) = 1 CP
-**Total: 80 CP**
+**Total: 81 CP**
 
 **Total CP:** 180 (150 base + 30 from problems)
 
