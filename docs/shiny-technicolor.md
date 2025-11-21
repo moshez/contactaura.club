@@ -134,19 +134,19 @@ Most characters will want at least one offensive power:
 
 - **Reduce Body:** The standard attack power
   - Basic melee: 3d6 (45 CP), with limitations like "requires martial arts skill roll" (0.5) = 30 CP
-  - Basic ranged: 2d6 (30 CP), ranged 30m (×6) = 180 CP, with limitations like "requires weapon" (0.5), "requires ammunition" (0.25) = 180/1.75 ≈ 103 CP
+  - Basic ranged: 2d6 (30 CP), ranged 30m (×2) = 60 CP, with limitations like "requires weapon" (0.5), "requires ammunition" (0.25) = 60/1.75 ≈ 34 CP
 
 For a superhero, you might want something more impressive:
 
-- **Energy projection:** 4d6 (60 CP), ranged 50m (×9) = 540 CP, with limitations like "gestures" (0.5), "visible attack" (0.25), "extra time: 1 action to charge" (0.5) = 540/2.25 ≈ 240 CP
+- **Energy projection:** 4d6 (60 CP), ranged 30m (×2) = 120 CP, with limitations like "gestures" (0.5), "visible attack" (0.25), "extra time: 1 action to charge" (0.5) = 120/2.25 ≈ 53 CP
 
-At 240 CP, this single power exceeds your entire budget! This is where the **Variant system** helps. Buy your most expensive attack as the primary, then buy variants at 10% cost:
+This is where the **Variant system** helps. Buy your most expensive attack as the primary, then buy variants at 10% cost:
 
-- **Primary attack:** Energy blast 4d6, ranged 50m, with above limitations = 240 CP
-- **Melee variant:** Same energy power at touch range = 24 CP (10% of primary)
-- **Area effect variant:** Energy blast 3d6, ranged 20m, AoE 3m radius = 24 CP (10% of primary)
+- **Primary attack:** Energy blast 4d6, ranged 30m, with above limitations = 53 CP
+- **Melee variant:** Same energy power at touch range = 5 CP (10% of primary)
+- **Area effect variant:** Energy blast 3d6, ranged 20m, AoE 3m radius = 5 CP (10% of primary)
 
-This gives you three different attack options for 288 CP instead of buying each separately. Still expensive, but more manageable with 150 base CP.
+This gives you three different attack options for 63 CP instead of buying each separately - much more affordable within the 150 base CP budget.
 
 **How does your character avoid being incapacitated?**
 
