@@ -4,9 +4,6 @@ The Convergence
 
 A Planar Fantasy Setting for the Plasticine TTRPG System
 
-.. contents:: Table of Contents
-   :depth: 2
-
 Introduction
 ============
 
